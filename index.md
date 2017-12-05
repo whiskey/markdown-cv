@@ -49,14 +49,14 @@ __Freelance Software Developer__, Berlin
 
 `01/2017-08/2017`
 __Senior Consultant__, _EY (Ernst & Young GmbH)_, Berlin/Freiburg
-- architecture requirements assessment & interface design between corporate backend(s) and SAP HANA
-- enabling teams for mobile prototype develop- & deployment
+- Architecture requirements assessment & interface design between corporate backend(s) and SAP HANA
+- Enabling teams for mobile prototype develop- & deployment
 
 `09/2016-12/2016`
 __Freelance Software Developer__, Berlin
 - Mobile development (iOS)
-- consulting and development of AWS-based systems
-- general IT consulting
+- Consulting and development of AWS-based systems
+- General IT consulting
 
 `02/2014-08/2015`
 __Lead developer__, _Two Bulls GmbH_, Berlin/Melbourne/New York
@@ -114,15 +114,15 @@ __University of Hildesheim__
 `07/2009-03/2012`
 __University of Hildesheim__
 - __Information management and -technology__
-- unfinished Master of Science; dropped out due to personal reasons at grade point average 1.9 (focus on machine learning and artificial intelligence)
+- Unfinished Master of Science; dropped out due to personal reasons at grade point average 1.9 (focus on machine learning and artificial intelligence)
 
 ### Internships, Volunteers, others
 
 `11/2007-04/2008`
 __Internship__, _MAN/NEOMAN Bus GmbH_, Salzgitter
-- supporting project management "VirtBus" (online repair- and maintenance)
-- user testing, bug reporting, QA
-- conceptual design of online Flash-based training and presentation platform
+- Supporting project management "VirtBus" (online repair- and maintenance)
+- User testing, bug reporting, QA
+- Conceptual design of online Flash-based training and presentation platform
 
 `04/2006-08/2006`
 __IT Volunteer__, _FIFA World Cup 2006_, Hannover
