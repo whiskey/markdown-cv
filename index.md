@@ -1,91 +1,139 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Carsten Knoblich
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Carsten Knoblich
+Certified AWS architect (Associate), mobile developer (iOS)
+
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+
+Wölfertstraße 9, 12101 Berlin <br>
+
+<a href="mailto:carsten@staticline.de">carsten@staticline.de</a>
+| <a href="https://staticline.de">staticline.de</a>
+| <a href="tel:+4917666019114">+49 176 66019114</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working on undisclosed VR project using Unity & Gear VR (Android).
 
-### Specialized in
+## Core Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Technology
 
+- Mobile software development; iOS, Swift, Objective-C
+- Python development; Django, Flask
+- AWS architecture and IT transformation; DevOps, micro services
+- Agile development; Scrum & Kanban
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+### Personal Skills
+- Ability to manage cross-functional teams and oversee the needs of all stakeholders in multi-disciplinary projects
+- Critical thinking
+- Problem solving with a mix of best practice and lean software development.
+- Team player
+- Conflict resilient
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+### Professional
+`09/2017-now`
+__Freelance Software Developer__, Berlin
+- Mobile development (iOS)
+- Backend development (Python/Django)
+- consulting and development of AWS-based systems
+- general IT consulting
 
-- Warden
-- Minted coins
+`01/2017-08/2017`
+__Senior Consultant__, _EY (Ernst & Young GmbH)_, Berlin/Freiburg
+- architecture requirements assessment & interface design between corporate backend(s) and SAP HANA
+- enabling teams for mobile prototype develop- & deployment
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`09/2016-12/2016`
+__Freelance Software Developer__, Berlin
+- Mobile development (iOS)
+- consulting and development of AWS-based systems
+- general IT consulting
 
+`02/2014-08/2015`
+__Lead developer__, _Two Bulls GmbH_, Berlin/Melbourne/New York
+- Native iOS development for german and australian customers in the fields of Education, Social Media, IoT and more.
+- Candidate assessment for internal developers and an external client in New York
+- Knowledge transfer and evangelism for iOS-related topics between the german and australian offices
+- Technologies: Swift, continuous integration & automation via Fastlane, Travis and Jenkins. Integration of cloud-based and traditional backend solutions based on Django, Parse, Firebase and Amazon Web Services
 
+`02/2014-08/2015`
+__Lead iOS developer__, _Secret Escapes GmbH_, Berlin/London
+- Native development of the Secret Escapes iOS app; consulting for all mobile- topics (tracking, testing, release plan, etc.)
+- Technologies: UI Kit, Core Data for offline caching and app handling (e.g. bookmarking and auto-synching when back online); Objective-C & Swift
+- Managing and defining automatic translation process (via Phraseapp) and creating tutorials for translators
+
+`09/2012-01/2014`
+__Mobile developer (iOS)__, _Innogames GmbH_, Hamburg
+- Native development of [Tribal Wars 2](https://en.tribalwars2.com/page#/) iOS app (online MMO)
+- Technologies: Cocos2D, OpenGL (shader programming), UI Kit, Core Data, web sockets, iOS payment integration into corporation structures (cross-game library)
+- Development of native components and views for [Grepolis App](https://wiki.en.grepolis.com/wiki/Grepolis_App) and Grepolis Mobile (no longer in store)
+- Technologies: UI Kit, Adobe AIR, Phone Gap
+- Technical candidate assessments (phone and direct interviews)
+
+`11/2011-08/2012`
+__Mobile developer (iOS)__, _DocumediaS GmbH_, Hannover
+- Lead mobile developer
+- Project manager (mobile)
+- Mobile API design and development (Python/Django)
+- Linux Server Administration for Amazon Web Services & infrastructure
+
+`05/2011-11/2011`
+__Freelance Software Developer__, Hildesheim
+- Mobile development (iOS)
+- Backend development (Python/Django)
+
+`07/2000-06/2004`
+__Army Service__, _Bundeswehr_, Oldenburg
+- Sergeant; Paratrooper
+
+### Private Projects
+
+`05/2015-01/2017`
+[__Sojourner - Social Tour Guides__](https://getaround.town)
+- Social platform for user generated (city-)tours. Playground for advanced app features such as app Indexing, deep linking, etc., as well as other topics like ad- Frameworks, analytics and automated content generation
+- Technologies: iOS, Swift, Amazon Web Services (Cognito, DynamoDB, IAM, etc.), iCloud (discontinued)
+
+## Education
+
+### University
+
+`10/2004-06/2009`
+__University of Hildesheim__
+- __Information management and -technology__
+- Bachelor of Science
+
+`07/2009-03/2012`
+__University of Hildesheim__
+- __Information management and -technology__
+- unfinished Master of Science; dropped out due to personal reasons at grade point average 1.9 (focus on machine learning and artificial intelligence)
+
+### Internships, Volunteers, others
+
+`11/2007-04/2008`
+__Internship__, _MAN/NEOMAN Bus GmbH_, Salzgitter
+- supporting project management "VirtBus" (online repair- and maintenance)
+- user testing, bug reporting, QA
+- conceptual design of online Flash-based training and presentation platform
+
+`04/2006-08/2006`
+__IT Volunteer__, _FIFA World Cup 2006_, Hannover
+- IT support in cooperation with Telekom, Avaya and others
+
+`06/2006-07/2011`
+__Student Assistant__, _University of Hildesheim_, Hildesheim
+- Software development and research: automatic Wikipedia-article categorization, image analysis, EXIF extraction and other machine learning tasks
+- Technologies: Java, Python/Django, PostgreSQL, misc. graph- & no-SQL databases, cluster computing
+- Tutor for Java, System Administration (Unix), Computer Science and during "Summer Schools" (audience: pupils aged 10-16; topics: Robotics and Java)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Dec 2017 -->
