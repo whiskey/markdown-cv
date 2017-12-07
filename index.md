@@ -116,7 +116,7 @@ __University of Hildesheim__
 - __Information management and -technology__
 - Unfinished Master of Science; dropped out due to personal reasons at grade point average 1.9 (focus on machine learning and artificial intelligence)
 
-### Internships, Volunteers, others
+### Internships & others
 
 `11/2007-04/2008`
 __Internship__, _MAN/NEOMAN Bus GmbH_, Salzgitter
