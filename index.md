@@ -118,6 +118,12 @@ __University of Hildesheim__
 
 ### Internships & others
 
+`06/2006-07/2011`
+__Student Assistant__, _University of Hildesheim_, Hildesheim
+- Software development and research: automatic Wikipedia-article categorization, image analysis, EXIF extraction and other machine learning tasks
+- Technologies: Java, Python/Django, PostgreSQL, misc. graph- & no-SQL databases, cluster computing
+- Tutor for Java, System Administration (Unix), Computer Science and during "Summer Schools" (audience: pupils aged 10-16; topics: Robotics and Java)
+
 `11/2007-04/2008`
 __Internship__, _MAN/NEOMAN Bus GmbH_, Salzgitter
 - Supporting project management "VirtBus" (online repair- and maintenance)
@@ -127,12 +133,6 @@ __Internship__, _MAN/NEOMAN Bus GmbH_, Salzgitter
 `04/2006-08/2006`
 __IT Volunteer__, _FIFA World Cup 2006_, Hannover
 - IT support in cooperation with Telekom, Avaya and others
-
-`06/2006-07/2011`
-__Student Assistant__, _University of Hildesheim_, Hildesheim
-- Software development and research: automatic Wikipedia-article categorization, image analysis, EXIF extraction and other machine learning tasks
-- Technologies: Java, Python/Django, PostgreSQL, misc. graph- & no-SQL databases, cluster computing
-- Tutor for Java, System Administration (Unix), Computer Science and during "Summer Schools" (audience: pupils aged 10-16; topics: Robotics and Java)
 
 <!-- ### Footer
 
