@@ -114,7 +114,7 @@ __University of Hildesheim__
 `07/2009-03/2012`
 __University of Hildesheim__
 - __Information management and -technology__
-- Unfinished Master of Science; dropped out due to personal reasons at grade point average 1.9 (focus on machine learning and artificial intelligence)
+- Unfinished Master of Science; focus on machine learning and artificial intelligence; grade point average 1.9 at ~50% progress
 
 ### Internships & others
 
