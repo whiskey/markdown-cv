@@ -19,7 +19,7 @@ Wölfertstraße 9, 12101 Berlin <br>
 
 ## Currently
 
-Working on undisclosed VR project using Unity & Gear VR (Android).
+Working on learning platform for [Adapt courses](https://www.adaptlearning.org) hosted on the Telekom Cloud
 
 ## Core Skills
 
@@ -42,6 +42,7 @@ Working on undisclosed VR project using Unity & Gear VR (Android).
 ### Professional
 `09/2017-now`
 __Freelance Software Developer__, Berlin
+- VR project using Unity & Gear VR (Android)
 - Mobile development (iOS)
 - Backend development (Python/Django)
 - consulting and development of AWS-based systems
