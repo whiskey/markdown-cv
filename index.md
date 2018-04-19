@@ -19,7 +19,7 @@ Wölfertstraße 9, 12101 Berlin <br>
 
 ## Currently
 
-Working on learning platform for [Adapt courses](https://www.adaptlearning.org) hosted on the Telekom Cloud
+Working on an iOS app & SDK in the automotive industry.
 
 ## Core Skills
 
@@ -44,7 +44,7 @@ Working on learning platform for [Adapt courses](https://www.adaptlearning.org) 
 __Freelance Software Developer__, Berlin
 - VR project using Unity & Gear VR (Android)
 - Mobile development (iOS)
-- Backend development (Python/Django)
+- Web/Backend development (Python/Django)
 - consulting and development of AWS-based systems
 - general IT consulting
 
