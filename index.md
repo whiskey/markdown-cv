@@ -41,7 +41,8 @@ Working on an iOS app & SDK in the automotive industry.
 
 ### Professional
 `09/2017-now`
-__Freelance Software Developer__, Berlin
+<span class="tag free">Freelance</span>
+__Software Developer__, Berlin
 - VR project using Unity & Gear VR (Android)
 - Mobile development (iOS)
 - Web/Backend development (Python/Django)
@@ -49,38 +50,44 @@ __Freelance Software Developer__, Berlin
 - general IT consulting
 
 `01/2017-08/2017`
+<span class="tag perm">Permanent</span>
 __Senior Consultant__, _EY (Ernst & Young GmbH)_, Berlin/Freiburg
 - Architecture requirements assessment & interface design between corporate backend(s) and SAP HANA
 - Enabling teams for mobile prototype develop- & deployment
 
 `09/2016-12/2016`
-__Freelance Software Developer__, Berlin
+<span class="tag free">Freelance</span>
+__Software Developer__, Berlin
 - Mobile development (iOS)
 - Consulting and development of AWS-based systems
 - General IT consulting
 
 `02/2014-08/2015`
+<span class="tag perm">Permanent</span>
 __Lead developer__, _Two Bulls GmbH_, Berlin/Melbourne/New York
 - Native iOS development for german and australian customers in the fields of Education, Social Media, IoT and more.
 - Candidate assessment for internal developers and an external client in New York
 - Knowledge transfer and evangelism for iOS-related topics between the german and australian offices
-- Technologies: Swift, continuous integration & automation via Fastlane, Travis and Jenkins. Integration of cloud-based and traditional backend solutions based on Django, Parse, Firebase and Amazon Web Services
+- _Technologies:_ Swift, continuous integration & automation via Fastlane, Travis and Jenkins. Integration of cloud-based and traditional backend solutions based on Django, Parse, Firebase and Amazon Web Services
 
 `02/2014-08/2015`
+<span class="tag perm">Permanent</span>
 __Lead iOS developer__, _Secret Escapes GmbH_, Berlin/London
 - Native development of the Secret Escapes iOS app; consulting for all mobile- topics (tracking, testing, release plan, etc.)
-- Technologies: UI Kit, Core Data for offline caching and app handling (e.g. bookmarking and auto-synching when back online); Objective-C & Swift
+- _Technologies:_ UI Kit, Core Data for offline caching and app handling (e.g. bookmarking and auto-synching when back online); Objective-C & Swift
 - Managing and defining automatic translation process (via Phraseapp) and creating tutorials for translators
 
 `09/2012-01/2014`
+<span class="tag perm">Permanent</span>
 __Mobile developer (iOS)__, _Innogames GmbH_, Hamburg
 - Native development of [Tribal Wars 2](https://en.tribalwars2.com/page#/) iOS app (online MMO)
-- Technologies: Cocos2D, OpenGL (shader programming), UI Kit, Core Data, web sockets, iOS payment integration into corporation structures (cross-game library)
+- _Technologies:_ Cocos2D, OpenGL (shader programming), UI Kit, Core Data, web sockets, iOS payment integration into corporation structures (cross-game library)
 - Development of native components and views for [Grepolis App](https://wiki.en.grepolis.com/wiki/Grepolis_App) and Grepolis Mobile (no longer in store)
-- Technologies: UI Kit, Adobe AIR, Phone Gap
+- _Technologies:_ UI Kit, Adobe AIR, Phone Gap
 - Technical candidate assessments (phone and direct interviews)
 
 `11/2011-08/2012`
+<span class="tag perm">Permanent</span>
 __Mobile developer (iOS)__, _DocumediaS GmbH_, Hannover
 - Lead mobile developer
 - Project manager (mobile)
@@ -88,11 +95,13 @@ __Mobile developer (iOS)__, _DocumediaS GmbH_, Hannover
 - Linux Server Administration for Amazon Web Services & infrastructure
 
 `05/2011-11/2011`
+<span class="tag free">Freelance</span>
 __Freelance Software Developer__, Hildesheim
 - Mobile development (iOS)
 - Backend development (Python/Django)
 
 `07/2000-06/2004`
+<span class="tag perm">Permanent</span>
 __Army Service__, _Bundeswehr_, Oldenburg
 - Sergeant; Paratrooper
 
@@ -101,7 +110,7 @@ __Army Service__, _Bundeswehr_, Oldenburg
 `05/2015-01/2017`
 [__Sojourner - Social Tour Guides__](https://getaround.town)
 - Social platform for user generated (city-)tours. Playground for advanced app features such as app Indexing, deep linking, etc., as well as other topics like ad- Frameworks, analytics and automated content generation
-- Technologies: iOS, Swift, Amazon Web Services (Cognito, DynamoDB, IAM, etc.), iCloud (discontinued)
+- _Technologies:_ iOS, Swift, Amazon Web Services (Cognito, DynamoDB, IAM, etc.), iCloud (discontinued)
 
 ## Education
 
@@ -122,7 +131,7 @@ __University of Hildesheim__
 `06/2006-07/2011`
 __Student Assistant__, _University of Hildesheim_, Hildesheim
 - Software development and research: automatic Wikipedia-article categorization, image analysis, EXIF extraction and other machine learning tasks
-- Technologies: Java, Python/Django, PostgreSQL, misc. graph- & no-SQL databases, cluster computing
+- _Technologies:_ Java, Python/Django, PostgreSQL, misc. graph- & no-SQL databases, cluster computing
 - Tutor for Java, System Administration (Unix), Computer Science and during "Summer Schools" (audience: pupils aged 10-16; topics: Robotics and Java)
 
 `11/2007-04/2008`
@@ -137,4 +146,4 @@ __IT Volunteer__, _FIFA World Cup 2006_, Hannover
 
 <!-- ### Footer
 
-Last updated: Dec 2017 -->
+Last updated: May 2018 -->
