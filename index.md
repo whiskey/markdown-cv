@@ -16,11 +16,6 @@ Wölfertstraße 9, 12101 Berlin <br>
 | <a href="tel:+4917666019114">+49 176 66019114</a>
 </div>
 
-
-## Currently
-
-Working on an iOS app & SDK in the automotive industry.
-
 ## Core Skills
 
 ### Technology
@@ -31,6 +26,7 @@ Working on an iOS app & SDK in the automotive industry.
 - Agile development; Scrum & Kanban
 
 ### Personal Skills
+
 - Ability to manage cross-functional teams and oversee the needs of all stakeholders in multi-disciplinary projects
 - Critical thinking
 - Problem solving with a mix of best practice and lean software development.
@@ -40,6 +36,7 @@ Working on an iOS app & SDK in the automotive industry.
 ## Occupation
 
 ### Professional
+
 `09/2017-now`
 <span class="tag free">Freelance</span>
 __Software Developer__, Berlin
@@ -146,4 +143,4 @@ __IT Volunteer__, _FIFA World Cup 2006_, Hannover
 
 <!-- ### Footer
 
-Last updated: May 2018 -->
+Last updated: June 2018 -->
