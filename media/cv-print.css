@@ -119,6 +119,7 @@ h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
 	width: 65%;
+	page-break-before: auto;
 }
 
 h1 {
@@ -161,7 +162,7 @@ h3 {
 
 a {
 	color: inherit;
-	text-decoration:none
+	text-decoration:none;
 }
 
 a:hover {
