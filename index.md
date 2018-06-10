@@ -59,7 +59,7 @@ __Software Developer__, Berlin
 - Consulting and development of AWS-based systems
 - General IT consulting
 
-`02/2014-08/2015`
+`09/2015-10/2016`
 <span class="tag perm">Permanent</span>
 __Lead developer__, _Two Bulls GmbH_, Berlin/Melbourne/New York
 - Native iOS development for german and australian customers in the fields of Education, Social Media, IoT and more.
