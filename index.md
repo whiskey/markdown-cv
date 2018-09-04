@@ -3,13 +3,13 @@ layout: cv
 title: Carsten Knoblich
 ---
 # Carsten Knoblich
-Certified AWS architect (Associate), mobile developer (iOS)
+Full-stack mobile developer (AWS architect & iOS)
 
 
 
 <div id="webaddress">
 
-Wölfertstraße 9, 12101 Berlin <br>
+Stolpmünder Weg 51, 13503 Berlin <br>
 
 <a href="mailto:carsten@staticline.de">carsten@staticline.de</a>
 | <a href="https://staticline.de">staticline.de</a>
@@ -42,9 +42,9 @@ Wölfertstraße 9, 12101 Berlin <br>
 __Software Developer__, Berlin
 - VR project using Unity & Gear VR (Android)
 - Mobile development (iOS)
+- Research spikes on adavanced mobile topics (iOS)
 - Web/Backend development (Python/Django)
 - consulting and development of AWS-based systems
-- general IT consulting
 
 `01/2017-08/2017`
 <span class="tag perm">Permanent</span>
@@ -143,4 +143,4 @@ __IT Volunteer__, _FIFA World Cup 2006_, Hannover
 
 <!-- ### Footer
 
-Last updated: June 2018 -->
+Last updated: Sep 2018 -->
