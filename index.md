@@ -37,20 +37,36 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Professional
 
-`09/2017-now`
+`11/2018-now`
 <span class="tag free">Freelance</span>
-__Software Developer__, Berlin
+__DevOps Engineer__, Berlin/_undisclosed_
+- Implementation of Terraform modules for Azure-based cloud applications
+- Automated testing of terraform artifacts
+- _Technologies:_ Azure, Terraform, InSpec, Ruby, Jenkins
+
+`07/2018-10/2018`
+<span class="tag free">Freelance</span>
+__Research Spike__, Berlin/Mannheim
+- Research spikes on adavanced mobile topics (iOS)
+- Mobile development (iOS)
+- _Technologies:_ Swift, HealthKit, SiriKit
+
+`09/2017-07/2018`
+<span class="tag free">Freelance</span>
+__Software Architect__, Berlin/Freiburg
 - VR project using Unity & Gear VR (Android)
 - Mobile development (iOS)
-- Research spikes on adavanced mobile topics (iOS)
 - Web/Backend development (Python/Django)
-- consulting and development of AWS-based systems
+- consulting and development of AWS-based systems & prototypes
+- _Technologies:_ Swift, Unity 3d 
 
 `01/2017-08/2017`
 <span class="tag perm">Permanent</span>
 __Senior Consultant__, _EY (Ernst & Young GmbH)_, Berlin/Freiburg
 - Architecture requirements assessment & interface design between corporate backend(s) and SAP HANA
 - Enabling teams for mobile prototype develop- & deployment
+- Participation in the Enterprise Architects community
+- TOGAF trained
 
 `09/2016-12/2016`
 <span class="tag free">Freelance</span>
