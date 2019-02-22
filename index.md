@@ -39,7 +39,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 `11/2018-now`
 <span class="tag free">Freelance</span>
-__DevOps Engineer__, Berlin/_undisclosed_
+__DevOps Engineer__, Berlin/undisclosed
 - Implementation of Terraform modules for Azure-based cloud applications
 - Automated testing of terraform artifacts
 - _Technologies:_ Azure, Terraform, InSpec, Ruby, Jenkins
