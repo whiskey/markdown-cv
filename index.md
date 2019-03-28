@@ -22,14 +22,14 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 - Mobile software development; iOS, Swift, Objective-C
 - Python development; Django, Flask
-- AWS architecture and IT transformation; DevOps, micro services
+- AWS architecture and IT transformation; DevOps, micro services, private projects
 - Agile development; Scrum & Kanban
 
 ### Personal Skills
 
-- Ability to manage cross-functional teams and oversee the needs of all stakeholders in multi-disciplinary projects
+- Experience to manage cross-functional teams and oversee the needs of all stakeholders in multi-disciplinary projects
 - Critical thinking
-- Problem solving with a mix of best practice and lean software development.
+- Problem solving with a mix of best practice and lean software development
 - Team player
 - Conflict resilient
 
@@ -40,15 +40,16 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `11/2018-now`
 <span class="tag free">Freelance</span>
 __DevOps Engineer__, Berlin/undisclosed
-- Implementation of Terraform modules for Azure-based cloud applications
-- Automated testing of terraform artifacts
+- Deployment of infrastructure using a multi cloud environment
+- Agile scripting within DevOps framework
+- Run, test, adjust and create blueprints
 - _Technologies:_ Azure, Terraform, InSpec, Ruby, Jenkins
 
 `07/2018-10/2018`
 <span class="tag free">Freelance</span>
 __Research Spike__, Berlin/Mannheim
-- Research spikes on adavanced mobile topics (iOS)
-- Mobile development (iOS)
+- Research spikes on adavanced mobile topics (iOS; Health, Siri)
+- Prototype and framework development (iOS)
 - _Technologies:_ Swift, HealthKit, SiriKit
 
 `09/2017-07/2018`
@@ -57,7 +58,7 @@ __Software Architect__, Berlin/Freiburg
 - VR project using Unity & Gear VR (Android)
 - Mobile development (iOS)
 - Web/Backend development (Python/Django)
-- consulting and development of AWS-based systems & prototypes
+- Designing and development of AWS-based systems & prototypes
 - _Technologies:_ Swift, Unity 3d 
 
 `01/2017-08/2017`
@@ -67,6 +68,7 @@ __Senior Consultant__, _EY (Ernst & Young GmbH)_, Berlin/Freiburg
 - Enabling teams for mobile prototype develop- & deployment
 - Participation in the Enterprise Architects community
 - TOGAF trained
+- _Technologies:_ AWS (EC2, DynamoDB, RDS, S3, Lambda, Polly, Lex, etc.), Swift
 
 `09/2016-12/2016`
 <span class="tag free">Freelance</span>
@@ -74,6 +76,7 @@ __Software Developer__, Berlin
 - Mobile development (iOS)
 - Consulting and development of AWS-based systems
 - General IT consulting
+- _Technologies:_ Swift, AWS (EC2, DynamoDB, RDS, Lambda, ApiGateway, etc.)
 
 `09/2015-10/2016`
 <span class="tag perm">Permanent</span>
@@ -81,7 +84,7 @@ __Lead developer__, _Two Bulls GmbH_, Berlin/Melbourne/New York
 - Native iOS development for german and australian customers in the fields of Education, Social Media, IoT and more.
 - Candidate assessment for internal developers and an external client in New York
 - Knowledge transfer and evangelism for iOS-related topics between the german and australian offices
-- _Technologies:_ Swift, continuous integration & automation via Fastlane, Travis and Jenkins. Integration of cloud-based and traditional backend solutions based on Django, Parse, Firebase and Amazon Web Services
+- _Technologies:_ Swift, continuous integration & automation via Fastlane, Travis and Jenkins. Integration of cloud-based and traditional backend solutions based on Django, Parse, Firebase and AWS (EC2, DynamoDB, RDS, S3, Lambda, ApiGateway, etc.)
 
 `02/2014-08/2015`
 <span class="tag perm">Permanent</span>
