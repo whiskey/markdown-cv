@@ -37,9 +37,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Professional
 
-`11/2018-now`
+`11/2018-04/2019`
 <span class="tag free">Freelance</span>
-__DevOps Engineer__, Berlin/undisclosed
+__DevOps Engineer__, _Boehringer Ingelheim_, Berlin/Ingelheim
 - Deployment of infrastructure using a multi cloud environment
 - Agile scripting within DevOps framework
 - Run, test, adjust and create blueprints
@@ -47,14 +47,14 @@ __DevOps Engineer__, Berlin/undisclosed
 
 `07/2018-10/2018`
 <span class="tag free">Freelance</span>
-__Research Spike__, Berlin/Mannheim
+__Research Spike__, _vitaliberty GmbH_ ,Berlin/Mannheim
 - Research spikes on adavanced mobile topics (iOS; Health, Siri)
 - Prototype and framework development (iOS)
 - _Technologies:_ Swift, HealthKit, SiriKit
 
 `09/2017-07/2018`
 <span class="tag free">Freelance</span>
-__Software Architect__, Berlin/Freiburg
+__Software Architect__, _EY (Ernst & Young GmbH)_, Berlin/Freiburg
 - VR project using Unity & Gear VR (Android)
 - Mobile development (iOS)
 - Web/Backend development (Python/Django)
