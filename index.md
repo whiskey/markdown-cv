@@ -39,7 +39,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 `05/2019-today`
 <span class="tag free">Freelance</span>
-__Mobile developer (iOS)__, _DKB Code Factory GmbH_ ,Berlin
+__Mobile developer (iOS)__, _DKB Code Factory GmbH_, Berlin
 - Design & Development of a new banking product (iPhone and iPad)
 - Defining and implementing common standards in cross-functional teams
 - _Technologies:_ Swift, UIKit, CoreData, Fastlane & Jenkins for continuous integration
