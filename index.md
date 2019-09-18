@@ -12,7 +12,7 @@ Full-stack mobile developer (AWS architect & iOS)
 Stolpmünder Weg 51, 13503 Berlin <br>
 
 <a href="mailto:carsten@staticline.de">carsten@staticline.de</a>
-| <a href="https://staticline.de">staticline.de</a>
+| <a href="https://staticline.de/?pk_campaign=cv&pk_kwd=cv&pk_source=cv">staticline.de</a>
 | <a href="tel:+4917666019114">+49 176 66019114</a>
 </div>
 
@@ -132,14 +132,14 @@ __Army Service__, _Bundeswehr_, Oldenburg
 ### Private Projects
 
 `03/2019-today`
-[__Exoplanet Explorer__](https://the-exoplanets.space)
+[__Exoplanet Explorer__](https://the-exoplanets.space/?pk_campaign=cv&pk_kwd=cv&pk_source=cv)
 - Mobile app to display, search and bookmark exoplanets based on the [NASA Exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
 - Design & Development of the mobile app (iOS), web site and backend api
 - [AppStore Link](https://apps.apple.com/us/app/exoplanet-explorer/id1457614833?ls=1)
 - _Technologies:_ iOS, Swift, CoreData, iCloud, Amazon Web Services (EC2 etc.), Redis, Postgres, Docker
 
 `05/2015-01/2017`
-[__Sojourner - Social Tour Guides__](https://getaround.town) – (discontinued)
+[__Sojourner - Social Tour Guides__](https://getaround.town/?pk_campaign=cv&pk_kwd=cv&pk_source=cv) – (discontinued)
 - Social platform for user generated (city-)tours. Playground for advanced app features such as app Indexing, deep linking, etc., as well as other topics like ad- Frameworks, analytics and automated content generation
 - _Technologies:_ iOS, Swift, Amazon Web Services (Cognito, DynamoDB, IAM, etc.), iCloud
 
