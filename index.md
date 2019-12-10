@@ -70,7 +70,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 <span class="tag free">Freelance</span>
 
-**Research Spike**, _vitaliberty GmbH_ ,Berlin/Mannheim
+**Research Spike**, _vitaliberty GmbH_, Berlin/Mannheim
 
 - Research spikes on advanced mobile topics (iOS; Health, Siri)
 - Prototype and framework development (iOS)
