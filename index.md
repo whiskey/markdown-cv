@@ -36,13 +36,13 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Professional
 
-`11/2019-today`
+`11/2019-02/2020`
 
 <span class="tag free">Freelance</span>
 
 **Mobile developer (iOS)**, _Deutsche Post IT Services GmbH_, Berlin
 
-- Design, Development & Testing of a new products (iPhone and iPad)
+- Design, Development & Testing of new products to access & maintain the new generation of "Packstation" pick-up locations (iPhone and iPad)
 - _Technologies:_ Swift, UIKit, CoreBluetooth, Fastlane & Xcode Bots for continuous integration
 
 `05/2019-11/2019`
