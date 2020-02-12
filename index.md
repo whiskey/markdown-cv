@@ -19,8 +19,8 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Technology
 
-- Mobile software development; iOS, Swift, Objective-C
-- Python development; Django, Flask
+- Mobile software development; iOS, Swift, Objective-C, Fastlane
+- Python development; Django, Flask, Automation/Scripting
 - AWS architecture and IT transformation; DevOps, micro services, private projects
 - Agile development; Scrum & Kanban
 
@@ -43,7 +43,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 **Mobile developer (iOS)**, _Deutsche Post IT Services GmbH_, Berlin
 
 - Design, Development & Testing of new products to access & maintain the new generation of "Packstation" pick-up locations (iPhone and iPad)
-- _Technologies:_ Swift, UIKit, CoreBluetooth, Fastlane & Xcode Bots for continuous integration
+- _Technologies:_ Swift, UIKit, CoreBluetooth, Python scripts, Fastlane & Xcode Bots for continuous integration
 
 `05/2019-11/2019`
 
@@ -53,7 +53,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 - Design, Development & Testing of a new banking product (iPhone and iPad)
 - Defining and implementing common standards in cross-functional teams
-- _Technologies:_ Swift, UIKit, CoreData, Fastlane & Jenkins for continuous integration
+- _Technologies:_ Swift, UIKit, CoreData, Python scripts, Fastlane & Jenkins for continuous integration
 
 `10/2018-04/2019`
 
@@ -74,7 +74,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 - Research spikes on advanced mobile topics (iOS; Health, Siri)
 - Prototype and framework development (iOS)
-- _Technologies:_ Swift, HealthKit, SiriKit
+- _Technologies:_ Swift, HealthKit, SiriKit, Fastlane for continuous integration
 
 `09/2017-07/2018`
 
@@ -86,7 +86,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Mobile development (iOS)
 - Web/Backend development (Python/Django)
 - Designing and development of AWS-based systems & prototypes
-- _Technologies:_ Swift, Unity 3d
+- _Technologies:_ Swift, Unity 3d, Fastlane for continuous integration
 
 `01/2017-08/2017`
 
@@ -98,7 +98,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Enabling teams for mobile prototype develop- & deployment
 - Participation in the Enterprise Architects community
 - TOGAF trained
-- _Technologies:_ AWS (EC2, DynamoDB, RDS, S3, Lambda, Polly, Lex, etc.), Swift
+- _Technologies:_ AWS (EC2, DynamoDB, RDS, S3, Lambda, Polly, Lex, etc.), Swift, Python
 
 `09/2016-12/2016`
 
@@ -109,7 +109,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Mobile development (iOS)
 - Consulting and development of AWS-based systems
 - General IT consulting
-- _Technologies:_ Swift, AWS (EC2, DynamoDB, RDS, Lambda, ApiGateway, etc.)
+- _Technologies:_ Swift, AWS (EC2, DynamoDB, RDS, Lambda, ApiGateway, etc.), Python
 
 `09/2015-10/2016`
 
@@ -139,7 +139,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 **Mobile developer (iOS)**, _Innogames GmbH_, Hamburg
 
 - Native development of [Tribal Wars 2](https://en.tribalwars2.com/page#/) iOS app (online MMO)
-- _Technologies:_ Cocos2D, OpenGL (shader programming), UI Kit, Core Data, web sockets, iOS payment integration into corporation structures (cross-game library)
+- _Technologies:_ Cocos2D, OpenGL (shader programming), UI Kit, Core Data, web sockets, iOS payment integration into corporation structures (cross-game library), creation of Python-based asset pipeline to automatically convert assets for mobile usage
 - Development of native components and views for [Grepolis App](https://wiki.en.grepolis.com/wiki/Grepolis_App) and Grepolis Mobile (no longer in store)
 - _Technologies:_ UI Kit, Adobe AIR, Phone Gap
 - Technical candidate assessments (phone and direct interviews)
