@@ -112,7 +112,8 @@ li ul {
 	position: relative;
 	left: 0;
 	width: 100%;
-	margin-top: 0.25em;
+	/* margin-top: 0.25em; */
+	margin-bottom: 2em;
 }
 
 h1,h2,h3,h4 {
@@ -183,8 +184,9 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	font-style: italic;
+	font-weight: bold;
+	/* color: #2d4e5e */
 }
 
 strong {
@@ -194,6 +196,12 @@ strong {
 #ghbutton {
 	display: none;
 	visibility: hidden;
+}
+
+.highlighter-rouge {
+	position: relative;
+	/* left: 0; */
+	/* top: 20px; */
 }
 
 .tag {
