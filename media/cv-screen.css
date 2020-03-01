@@ -50,7 +50,6 @@ table {
 /* end of reset */
 
 
-
 body {
 	font: normal normal 400;
 	font-size: 80%;
@@ -77,12 +76,6 @@ code {
 	color: #aaa;
 }
 
-p code {
-	position: absolute;
-	left: -14%;
-}
-
-
 ul {
 	position: relative;
 	left: 33%;
@@ -91,12 +84,11 @@ ul {
 	margin-top: -0.5em;
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -149,11 +141,6 @@ h3 {
 	top: 1.7em;
 	text-align: right;
 	width: 20%;
-}
-
-a {
-	color: inherit;
-	/*text-decoration:none*/
 }
 
 a:hover {
@@ -210,11 +197,22 @@ strong {
 	display: none;
 }
 
+.projectmeta {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+
+.projectdate {
+  /* display: inline; */
+}
+
 .tag {
 	color: white;
 	font-style: italic;
 	font-size: 80%;
-	padding: 2px 4px;
+	padding: 0px 8px;
+  margin-left: 8px;
 	border-radius: 10% 0%;
 }
 

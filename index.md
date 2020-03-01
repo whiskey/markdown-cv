@@ -36,18 +36,17 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Professional
 
-`11/2019-02/2020`
-
-<span class="tag free">Freelance</span>
+`11/2019-02/2020`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
 
 **Mobile developer (iOS)**, _Deutsche Post IT Services GmbH_, Berlin
 
 - Design, Development & Testing of new products to access & maintain the new generation of "Packstation" pick-up locations (iPhone and iPad)
 - _Technologies:_ Swift, UIKit, CoreBluetooth, Python scripts, Fastlane & Xcode Bots for continuous integration
 
-`05/2019-11/2019`
 
-<span class="tag free">Freelance</span>
+`05/2019-11/2019`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
 
 **Mobile developer (iOS)**, _DKB Code Factory GmbH_, Berlin
 
@@ -55,9 +54,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Defining and implementing common standards in cross-functional teams
 - _Technologies:_ Swift, UIKit, CoreData, Python scripts, Fastlane & Jenkins for continuous integration
 
-`10/2018-04/2019`
 
-<span class="tag free">Freelance</span>
+`10/2018-04/2019`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
 
 **DevOps Engineer**, _Boehringer Ingelheim_, Berlin/Ingelheim
 
@@ -66,9 +65,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Run, test, adjust and create blueprints
 - _Technologies:_ Azure, Terraform, InSpec, Ruby, Jenkins
 
-`07/2018-10/2018`
 
-<span class="tag free">Freelance</span>
+`07/2018-10/2018`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
 
 **Research Spike**, _vitaliberty GmbH_, Berlin/Mannheim
 
@@ -76,9 +75,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Prototype and framework development (iOS)
 - _Technologies:_ Swift, HealthKit, SiriKit, Fastlane for continuous integration
 
-`09/2017-07/2018`
 
-<span class="tag free">Freelance</span>
+`09/2017-07/2018`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
 
 **Software Architect**, _EY (Ernst & Young GmbH)_, Berlin/Freiburg
 
@@ -88,9 +87,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Designing and development of AWS-based systems & prototypes
 - _Technologies:_ Swift, Unity 3d, Fastlane for continuous integration
 
-`01/2017-08/2017`
 
-<span class="tag perm">Permanent</span>
+`01/2017-08/2017`{:.projectdate} _Permanent_{:.tag .perm}
+{:.projectmeta}
 
 **Senior Consultant**, _EY (Ernst & Young GmbH)_, Berlin/Freiburg
 
@@ -100,9 +99,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - TOGAF trained
 - _Technologies:_ AWS (EC2, DynamoDB, RDS, S3, Lambda, Polly, Lex, etc.), Swift, Python
 
-`09/2016-12/2016`
 
-<span class="tag free">Freelance</span>
+`09/2016-12/2016`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
 
 **Software Developer**, Berlin
 
@@ -111,9 +110,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - General IT consulting
 - _Technologies:_ Swift, AWS (EC2, DynamoDB, RDS, Lambda, ApiGateway, etc.), Python
 
-`09/2015-10/2016`
 
-<span class="tag perm">Permanent</span>
+`09/2015-10/2016`{:.projectdate} _Permanent_{:.tag .perm}
+{:.projectmeta}
 
 **Lead developer**, _Two Bulls GmbH_, Berlin/Melbourne/New York
 
@@ -122,9 +121,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Knowledge transfer and evangelism for iOS-related topics between the German and Australian offices
 - _Technologies:_ Swift, continuous integration & automation via Fastlane, Travis and Jenkins. Integration of cloud-based and traditional backend solutions based on Django, Parse, Firebase and AWS (EC2, DynamoDB, RDS, S3, Lambda, ApiGateway, etc.)
 
-`02/2014-08/2015`
 
-<span class="tag perm">Permanent</span>
+`02/2014-08/2015`{:.projectdate} _Permanent_{:.tag .perm}
+{:.projectmeta}
 
 **Lead iOS developer**, _Secret Escapes GmbH_, Berlin/London
 
@@ -132,9 +131,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - _Technologies:_ UI Kit, Core Data for offline caching and app handling (e.g. bookmarking and auto-synching when back online); Objective-C & Swift
 - Managing and defining automatic translation process (via Phraseapp) and creating tutorials for translators
 
-`09/2012-01/2014`
 
-<span class="tag perm">Permanent</span>
+`09/2012-01/2014`{:.projectdate} _Permanent_{:.tag .perm}
+{:.projectmeta}
 
 **Mobile developer (iOS)**, _Innogames GmbH_, Hamburg
 
@@ -144,9 +143,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - _Technologies:_ UI Kit, Adobe AIR, Phone Gap
 - Technical candidate assessments (phone and direct interviews)
 
-`11/2011-08/2012`
 
-<span class="tag perm">Permanent</span>
+`11/2011-08/2012`{:.projectdate} _Permanent_{:.tag .perm}
+{:.projectmeta}
 
 **Mobile developer (iOS)**, _DocumediaS GmbH_, Hannover
 
@@ -155,18 +154,18 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Mobile API design and development (Python/Django)
 - Linux Server Administration for Amazon Web Services & infrastructure
 
-`05/2011-11/2011`
 
-<span class="tag free">Freelance</span>
+`05/2011-11/2011`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
 
 **Freelance Software Developer**, Hildesheim
 
 - Mobile development (iOS)
 - Backend development (Python/Django)
 
-`07/2000-06/2004`
 
-<span class="tag perm">Permanent</span>
+`07/2000-06/2004`{:.projectdate} _Permanent_{:.tag .perm}
+{:.projectmeta}
 
 **Army Service**, _Bundeswehr_, Oldenburg
 
