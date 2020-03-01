@@ -170,6 +170,10 @@ a:hover {
 	color:#39f
 }
 
+#header {
+  visibility: hidden;
+}
+
 #webaddress {
 	margin-top: 1em;
 	position: relative;
