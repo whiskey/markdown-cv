@@ -6,6 +6,7 @@ title: Carsten Knoblich
 # Carsten Knoblich
 
 Full-stack mobile developer (AWS architect & iOS)
+{:.subtitle}
 
 <div id="webaddress">
 

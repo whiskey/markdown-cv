@@ -143,6 +143,10 @@ h3 {
 	width: 20%;
 }
 
+a {
+  color: inherit;
+}
+
 a:hover {
 	color:#39f
 }

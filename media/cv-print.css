@@ -73,18 +73,11 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
-	display: block;
+	color: #aaa;
 }
-
-p code {
-	position: absolute;
-	left: -15%;
-}
-
 
 ul {
 	position: relative;
@@ -94,12 +87,11 @@ ul {
 	/*margin-top: -0.5em;*/
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -167,11 +159,16 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color:#39f;
 }
 
 #header {
   visibility: hidden;
+}
+
+.subtitle {
+  padding-top: 0.8em;
+  left: 28%;
 }
 
 #webaddress {
@@ -202,17 +199,22 @@ strong {
 	visibility: hidden;
 }
 
-.highlighter-rouge {
-	position: relative;
-	/* left: 0; */
-	/* top: 20px; */
+.projectmeta {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+
+.projectdate {
+  /* display: inline; */
 }
 
 .tag {
 	color: white;
 	font-style: italic;
 	font-size: 80%;
-	padding: 2px 4px;
+	padding: 0px 8px;
+  margin-left: 8px;
 	border-radius: 10% 0%;
 }
 
