@@ -5,7 +5,7 @@ title: Carsten Knoblich
 
 # Carsten Knoblich
 
-Full-stack mobile developer (AWS architect & iOS)
+Full-stack mobile developer & architect (iOS & AWS)
 {:.subtitle}
 
 <div id="webaddress">
@@ -20,22 +20,36 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Technology
 
-- Mobile software development; iOS, Swift, Objective-C, Fastlane
-- Python development; Django, Flask, Automation/Scripting
 - AWS architecture and IT transformation; DevOps, micro services, private projects
-- Agile development; Scrum & Kanban
+- Mobile software development; iOS, Swift, Objective-C
+- Python development; Django, Flask
+- (Process-)Automation; Continuous delivery & -deployment; Fastlane, Jenkins
+- Agile development; Scrum, Kanban, Lean development
+- Understanding of different software life cycles
 
 ### Personal Skills
 
 - Experience to manage cross-functional teams and oversee the needs of all stakeholders in multi-disciplinary projects
-- Critical thinking
-- Problem solving with a mix of best practice and lean software development
+- Able to go deep into technology as well as simplified according to target audience
 - Team player
+- Problem solving with a mix of best practice and lean software development
+- Critical thinking
 - Conflict resilient
 
 ## Occupation
 
 ### Professional
+
+`03/2020-today`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
+
+**Mobile developer (iOS)**, tbd
+
+- App development to be used for a German public transport company
+- Design and development of shared code libraries to be used within the iOS team
+- Mobile API design & review
+- _Technologies:_ Swift, UIKit, CoreData
+
 
 `11/2019-02/2020`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
@@ -52,7 +66,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 **Mobile developer (iOS)**, _DKB Code Factory GmbH_, Berlin
 
 - Design, Development & Testing of a new banking product (iPhone and iPad)
-- Defining and implementing common standards in cross-functional teams
+- Defining and implementing common standards in cross-functional teams (Credit Card & Banking app)
 - _Technologies:_ Swift, UIKit, CoreData, Python scripts, Fastlane & Jenkins for continuous integration
 
 
@@ -63,7 +77,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 - Deployment of infrastructure using a multi cloud environment
 - Agile scripting within DevOps framework
-- Run, test, adjust and create blueprints
+- Run, test, adjust and create blueprints according to (inhouse) client's needs
 - _Technologies:_ Azure, Terraform, InSpec, Ruby, Jenkins
 
 
@@ -82,6 +96,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Software Architect**, _EY (Ernst & Young GmbH)_, Berlin/Freiburg
 
+- Requirements analysis & architecture for a mobile-based e-learning platform
 - VR project using Unity & Gear VR (Android)
 - Mobile development (iOS)
 - Web/Backend development (Python/Django)
@@ -108,7 +123,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 - Mobile development (iOS)
 - Consulting and development of AWS-based systems
-- General IT consulting
+- General IT consulting; requirements analysis
 - _Technologies:_ Swift, AWS (EC2, DynamoDB, RDS, Lambda, ApiGateway, etc.), Python
 
 
@@ -117,6 +132,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Lead developer**, _Two Bulls GmbH_, Berlin/Melbourne/New York
 
+- Technical/Architectural lead for the german chapter
 - Native iOS development for German and Australian customers in the fields of Education, Social Media, IoT and more.
 - Candidate assessment for internal developers and an external client in New York
 - Knowledge transfer and evangelism for iOS-related topics between the German and Australian offices
@@ -128,7 +144,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Lead iOS developer**, _Secret Escapes GmbH_, Berlin/London
 
-- Native development of the Secret Escapes iOS app; consulting for all mobile- topics (tracking, testing, release plan, etc.)
+- Native development of the Secret Escapes iOS app; consulting for all mobile- topics (architecture, tracking, testing, app life cycle, etc.)
 - _Technologies:_ UI Kit, Core Data for offline caching and app handling (e.g. bookmarking and auto-synching when back online); Objective-C & Swift
 - Managing and defining automatic translation process (via Phraseapp) and creating tutorials for translators
 
@@ -150,8 +166,8 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Mobile developer (iOS)**, _DocumediaS GmbH_, Hannover
 
-- Lead mobile developer
-- Project manager (mobile)
+- Lead mobile developer & architect
+- Project manager (mobile); Requirements analysis with customers
 - Mobile API design and development (Python/Django)
 - Linux Server Administration for Amazon Web Services & infrastructure
 
@@ -177,9 +193,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `03/2019-today` [**Exoplanet Explorer**](https://the-exoplanets.space/?pk_campaign=cv&pk_kwd=cv&pk_source=cv)
 
 - Mobile app to display, search and bookmark exoplanets based on the [NASA Exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
-- Design & Development of the mobile app (iOS), web site and backend api
+- Design & Development of the mobile app (iOS), web site and backend
 - [AppStore Link](https://apps.apple.com/us/app/exoplanet-explorer/id1457614833?ls=1)
-- _Technologies:_ iOS, Swift, CoreData, iCloud, Amazon Web Services (EC2 etc.), Redis, Postgres, Docker
+- _Technologies:_ iOS, Swift, CoreData, iCloud, Amazon Web Services (EC2 etc.), Redis, Postgres, Docker, Grafana
 
 `05/2015-01/2017` [**Sojourner - Social Tour Guides**](https://getaround.town/?pk_campaign=cv&pk_kwd=cv&pk_source=cv) – (discontinued)
 
@@ -190,15 +206,16 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### University
 
+`07/2009-03/2012` **University of Hildesheim**
+
+- **Information management and -technology**
+- Unfinished Master of Science; focus on applied machine learning and artificial intelligence; grade point average 1.9 at ~50% progress
+
 `10/2004-06/2009` **University of Hildesheim**
 
 - **Information management and -technology**
 - Bachelor of Science
-
-`07/2009-03/2012` **University of Hildesheim**
-
-- **Information management and -technology**
-- Unfinished Master of Science; focus on machine learning and artificial intelligence; grade point average 1.9 at ~50% progress
+- Focus on applied data mining, machine learning and computer aided learning
 
 ### Internships & others
 
@@ -217,5 +234,3 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `04/2006-08/2006` **IT Volunteer**, _FIFA World Cup 2006_, Hannover
 
 - IT support in cooperation with Telekom, Avaya and others
-
-<!-- ### Footer Last updated: Sep 2018 -->
