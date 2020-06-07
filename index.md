@@ -43,7 +43,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `03/2020-today`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Mobile developer (iOS)**, tbd
+**Mobile developer (iOS)**, tbd, remote
 
 - App development to be used for a German public transport company
 - Design and development of shared code libraries to be used within the iOS team
@@ -73,7 +73,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `10/2018-04/2019`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**DevOps Engineer**, _Boehringer Ingelheim_, Berlin/Ingelheim
+**DevOps Engineer**, _Boehringer Ingelheim_, remote/Ingelheim
 
 - Deployment of infrastructure using a multi cloud environment
 - Agile scripting within DevOps framework
@@ -84,7 +84,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `07/2018-10/2018`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Research Spike**, _vitaliberty GmbH_, Berlin/Mannheim
+**Research Spike**, _vitaliberty GmbH_, remote/Mannheim
 
 - Research spikes on advanced mobile topics (iOS; Health, Siri)
 - Prototype and framework development (iOS)
@@ -94,7 +94,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `09/2017-07/2018`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Software Architect**, _EY (Ernst & Young GmbH)_, Berlin/Freiburg
+**Software Architect**, _EY (Ernst & Young GmbH)_, remote/Berlin/Freiburg
 
 - Requirements analysis & architecture for a mobile-based e-learning platform
 - VR project using Unity & Gear VR (Android)
@@ -119,7 +119,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `09/2016-12/2016`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Software Developer**, Berlin
+**Software Developer**, remote/Berlin
 
 - Mobile development (iOS)
 - Consulting and development of AWS-based systems
@@ -130,7 +130,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `09/2015-10/2016`{:.projectdate} _Permanent_{:.tag .perm}
 {:.projectmeta}
 
-**Lead developer**, _Two Bulls GmbH_, Berlin/Melbourne/New York
+**Lead developer**, _Two Bulls GmbH_, remote/Berlin/Melbourne/New York
 
 - Technical/Architectural lead for the german chapter
 - Native iOS development for German and Australian customers in the fields of Education, Social Media, IoT and more.
@@ -142,7 +142,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `02/2014-08/2015`{:.projectdate} _Permanent_{:.tag .perm}
 {:.projectmeta}
 
-**Lead iOS developer**, _Secret Escapes GmbH_, Berlin/London
+**Lead iOS developer**, _Secret Escapes GmbH_, remote/Berlin/London
 
 - Native development of the Secret Escapes iOS app; consulting for all mobile- topics (architecture, tracking, testing, app life cycle, etc.)
 - _Technologies:_ UI Kit, Core Data for offline caching and app handling (e.g. bookmarking and auto-synching when back online); Objective-C & Swift
@@ -175,7 +175,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `05/2011-11/2011`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Freelance Software Developer**, Hildesheim
+**Freelance Software Developer**, remote/Hildesheim
 
 - Mobile development (iOS)
 - Backend development (Python/Django)
