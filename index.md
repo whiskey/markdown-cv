@@ -43,12 +43,12 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `03/2020-today`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Mobile developer (iOS)**, tbd, remote
+**Mobile developer (iOS)**, _NAS Smart Platforms GmbH_, remote
 
 - App development to be used for a German public transport company
 - Design and development of shared code libraries to be used within the iOS team
 - Mobile API design & review
-- _Technologies:_ Swift, UIKit, CoreData
+- _Technologies:_ Swift, UIKit, Combine, Fastlane, Python scripts
 
 
 `11/2019-02/2020`{:.projectdate} _Freelance_{:.tag .free}
