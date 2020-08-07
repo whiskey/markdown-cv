@@ -40,7 +40,21 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Professional
 
-`03/2020-today`{:.projectdate} _Freelance_{:.tag .free}
+`08/2020-now`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
+
+**Mobile developer (iOS)**, _SAP AG_, remote
+
+- `tbd`
+- _Technologies:_ Swift, UIKit, Fastlane
+
+<!--
+- Developing the official Corona-Warn-App for Germany
+- Design, implement and testing of new features
+- _Technologies:_ Swift, UIKit, Fastlane
+-->
+
+`03/2020-07/2020`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
 **Mobile developer (iOS)**, _NAS Smart Platforms GmbH_, remote
