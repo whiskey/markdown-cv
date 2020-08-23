@@ -45,8 +45,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Mobile developer (iOS)**, _SAP AG_, remote
 
-- `tbd`
-- _Technologies:_ Swift, UIKit, Fastlane
+- Development of the German Corona warning app
+- Handover of development tasks from SAP colleagues and continuation of the project
+- _Technologies:_ Swift, Apple Exposure Notification SDK, Fastlane, Protobuf
 
 <!--
 - Developing the official Corona-Warn-App for Germany
