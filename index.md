@@ -18,10 +18,11 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ## Core Skills
 
-### Technology
+### Technology & Concepts
 
-- AWS architecture and IT transformation; DevOps, micro services, private projects
 - Mobile software development; iOS, Swift, Objective-C
+- Mobile app security; iOS security best practices, security audit, OWASP MASVS
+- AWS architecture and IT transformation; DevOps, micro services, private projects
 - Python development; Django, Flask
 - (Process-)Automation; Continuous delivery & -deployment; Fastlane, Jenkins
 - Agile development; Scrum, Kanban, Lean development
@@ -46,7 +47,8 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 **Mobile developer (iOS)**, _SAP AG_, remote
 
 - Development of the German Corona warning app
-- Handover of development tasks from SAP colleagues and continuation of the project
+- Worked on most parts of the app with focus on CI, automation, tooling
+- Mobile app security & crypto implementation
 - _Technologies:_ Swift, Apple Exposure Notification SDK, Fastlane, Protobuf
 
 <!--
@@ -210,7 +212,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Mobile app to display, search and bookmark exoplanets based on the [NASA Exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
 - Design & Development of the mobile app (iOS), web site and backend
 - [AppStore Link](https://apps.apple.com/us/app/exoplanet-explorer/id1457614833?ls=1)
-- _Technologies:_ iOS, Swift, CoreData, iCloud, Amazon Web Services (EC2 etc.), Redis, Postgres, Docker, Grafana
+- _Technologies:_ iOS, Swift, SwiftUI, CoreData, iCloud, Amazon Web Services (EC2 etc.), Redis, Postgres, Docker
 
 `05/2015-01/2017` [**Sojourner - Social Tour Guides**](https://getaround.town/?pk_campaign=cv&pk_kwd=cv&pk_source=cv) – (discontinued)
 
