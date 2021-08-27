@@ -41,7 +41,16 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Professional
 
-`08/2020-now`{:.projectdate} _Freelance_{:.tag .free}
+`07/2021-now`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
+
+**Mobile developer (iOS)**, _IBM Germany AG_, remote
+
+- Development of the CovPass app
+- _Technologies:_ Swift, CommonCrypto, Fastlane
+
+
+`08/2020-07/2021`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
 **Mobile developer (iOS)**, _SAP AG_, remote
@@ -49,13 +58,8 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Development of the German Corona warning app
 - Worked on most parts of the app with focus on CI, automation, tooling
 - Mobile app security & crypto implementation
-- _Technologies:_ Swift, Apple Exposure Notification SDK, Fastlane, Protobuf
+- _Technologies:_ Swift, CommonCrypto, Apple Exposure Notification SDK, Fastlane, Protobuf
 
-<!--
-- Developing the official Corona-Warn-App for Germany
-- Design, implement and testing of new features
-- _Technologies:_ Swift, UIKit, Fastlane
--->
 
 `03/2020-07/2020`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
