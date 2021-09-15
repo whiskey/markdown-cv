@@ -55,7 +55,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Mobile developer (iOS)**, _SAP AG_, remote
 
-- Development of the German Corona warning app
+- Development of the German Corona Warn App (CWA)
 - Worked on most parts of the app with focus on CI, automation, tooling
 - Mobile app security & crypto implementation
 - _Technologies:_ Swift, CommonCrypto, Apple Exposure Notification SDK, Fastlane, Protobuf
