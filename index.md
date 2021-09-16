@@ -41,13 +41,13 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Professional
 
-`07/2021-now`{:.projectdate} _Freelance_{:.tag .free}
+`07/2021-09/2021`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
 **Mobile developer (iOS)**, _IBM Germany AG_, remote
 
 - Development of the CovPass app
-- _Technologies:_ Swift, CommonCrypto, Fastlane
+- _Technologies:_ Swift, CommonCrypto, PDFKit, Accessibility
 
 
 `08/2020-07/2021`{:.projectdate} _Freelance_{:.tag .free}
@@ -153,8 +153,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Lead developer**, _Two Bulls GmbH_, remote/Berlin/Melbourne/New York
 
-- Technical/Architectural lead for the german chapter
-- Native iOS development for German and Australian customers in the fields of Education, Social Media, IoT and more.
+- Technical/Architectural lead for the german chapter for German and Australian customers in the fields of Education, Social Media, IoT and more.
 - Candidate assessment for internal developers and an external client in New York
 - Knowledge transfer and evangelism for iOS-related topics between the German and Australian offices
 - _Technologies:_ Swift, continuous integration & automation via Fastlane, Travis and Jenkins. Integration of cloud-based and traditional backend solutions based on Django, Parse, Firebase and AWS (EC2, DynamoDB, RDS, S3, Lambda, ApiGateway, etc.)
@@ -201,14 +200,6 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Mobile development (iOS)
 - Backend development (Python/Django)
 
-
-`07/2000-06/2004`{:.projectdate} _Permanent_{:.tag .perm}
-{:.projectmeta}
-
-**Army Service**, _Bundeswehr_, Oldenburg
-
-- Sergeant; Paratrooper
-
 ### Private Projects
 
 `03/2019-today` [**Exoplanet Explorer**](https://the-exoplanets.space/?pk_campaign=cv&pk_kwd=cv&pk_source=cv)
@@ -217,11 +208,6 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Design & Development of the mobile app (iOS), web site and backend
 - [AppStore Link](https://apps.apple.com/us/app/exoplanet-explorer/id1457614833?ls=1)
 - _Technologies:_ iOS, Swift, SwiftUI, CoreData, iCloud, Amazon Web Services (EC2 etc.), Redis, Postgres, Docker
-
-`05/2015-01/2017` [**Sojourner - Social Tour Guides**](https://getaround.town/?pk_campaign=cv&pk_kwd=cv&pk_source=cv) – (discontinued)
-
-- Social platform for user generated (city-)tours. Playground for advanced app features such as app Indexing, deep linking, etc., as well as other topics like ad- Frameworks, analytics and automated content generation
-- _Technologies:_ iOS, Swift, Amazon Web Services (Cognito, DynamoDB, IAM, etc.), iCloud
 
 ## Education
 
@@ -245,13 +231,3 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Software development and research: automatic Wikipedia-article categorization, image analysis, EXIF extraction and other machine learning tasks
 - _Technologies:_ Java, Python/Django, PostgreSQL, misc. graph- & no-SQL databases, cluster computing
 - Tutor for Java, System Administration (Unix), Computer Science and during "Summer Schools" (audience: pupils aged 10-16; topics: Robotics and Java)
-
-`11/2007-04/2008` **Internship**, _MAN/NEOMAN Bus GmbH_, Salzgitter
-
-- Supporting project management "VirtBus" (online repair- and maintenance)
-- User testing, bug reporting, QA
-- Conceptual design of online Flash-based training and presentation platform
-
-`04/2006-08/2006` **IT Volunteer**, _FIFA World Cup 2006_, Hannover
-
-- IT support in cooperation with Telekom, Avaya and others
