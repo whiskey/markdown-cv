@@ -228,6 +228,8 @@ strong {
 	background-color: cadetblue;
 }
 
+.noprint {}
+
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...

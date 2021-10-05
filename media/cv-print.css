@@ -225,3 +225,7 @@ strong {
 .perm {
 	background-color: cadetblue;
 }
+
+.noprint {
+  display: none;
+}

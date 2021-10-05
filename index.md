@@ -242,9 +242,12 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Focus on applied data mining, machine learning and computer aided learning
 
 ### Internships & others
+{: .noprint}
 
 `06/2006-07/2011` **Student Assistant**, _University of Hildesheim_, Hildesheim
+{: .noprint}
 
 - Software development and research: automatic Wikipedia-article categorization, image analysis, EXIF extraction and other machine learning tasks
 - _Technologies:_ Java, Python/Django, PostgreSQL, misc. graph- & no-SQL databases, cluster computing
 - Tutor for Java, System Administration (Unix), Computer Science and during "Summer Schools" (audience: pupils aged 10-16; topics: Robotics and Java)
+{: .noprint}
