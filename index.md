@@ -21,18 +21,18 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 ### Technology & Concepts
 
 - Mobile software development; iOS, Swift, Objective-C
-- Mobile app security; iOS security best practices, security audit, OWASP MASVS
-- AWS architecture and IT transformation; DevOps, micro services, private projects
-- (Process-)Automation; Continuous delivery & -deployment; Fastlane, Jenkins
+- Mobile app security; iOS security Best Practices, security audit, OWASP MASVS
+- AWS architecture and IT transformation; DevOps, micro services
+- (Process-)Automation; Continuous delivery & -deployment; Fastlane, Jenkins, CircleCI
 - Agile development; Scrum, Kanban, Lean development as well as hybrid-forms
 - Understanding of different stages in software life cycles
 
 ### Personal Skills
 
-- Experience to manage cross-functional teams and oversee the needs of all stakeholders in multi-disciplinary projects
-- Able to go deep into technology as well as simplified according to target audience
-- Team player
-- Problem solving with a mix of best practice and lean software development
+- Experience to lead cross-functional teams and oversee the needs of all stakeholders in multi-disciplinary projects
+- Able to go deep into technology as well as simplified – according to target audience
+- Team player; Mentoring, team development
+- Problem solving with a mix of Best Practices and lean software development
 - Critical thinking
 - Conflict resilient
 
@@ -47,7 +47,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 - Knowledge transfer on automation and testing
 - Thread modeling
-- Development of the CovPass app (ui and accessibility)
+- Development of the CovPass app (UI and Accessibility)
 - _Technologies:_ Swift, CommonCrypto, PDFKit, Accessibility
 
 
@@ -233,7 +233,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `07/2009-03/2012` **University of Hildesheim**
 
 - **Information management and -technology**
-- Unfinished Master of Science; focus on applied machine learning and artificial intelligence; grade point average 1.9 at ~50% progress
+- Unfinished Master of Science; focus on applied machine learning and artificial intelligence; grade point average 1.9
 
 `10/2004-06/2009` **University of Hildesheim**
 
