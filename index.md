@@ -5,7 +5,7 @@ title: Carsten Knoblich
 
 # Carsten Knoblich
 
-Full-stack mobile developer & architect (iOS & AWS)
+Lead Mobile Developer & Software Architect with 10+ years experience
 {:.subtitle}
 
 <div id="webaddress">
@@ -23,10 +23,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Mobile software development; iOS, Swift, Objective-C
 - Mobile app security; iOS security best practices, security audit, OWASP MASVS
 - AWS architecture and IT transformation; DevOps, micro services, private projects
-- Python development; Django, Flask
 - (Process-)Automation; Continuous delivery & -deployment; Fastlane, Jenkins
-- Agile development; Scrum, Kanban, Lean development
-- Understanding of different software life cycles
+- Agile development; Scrum, Kanban, Lean development as well as hybrid-forms
+- Understanding of different stages in software life cycles
 
 ### Personal Skills
 
@@ -44,19 +43,21 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `07/2021-09/2021`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Mobile developer (iOS)**, _IBM Germany AG_, remote
+**Lead Mobile developer (iOS)**, _IBM Germany AG_, remote
 
-- Development of the CovPass app
+- Knowledge transfer on automation and testing
+- Thread modeling
+- Development of the CovPass app (ui and accessibility)
 - _Technologies:_ Swift, CommonCrypto, PDFKit, Accessibility
 
 
 `08/2020-07/2021`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Mobile developer (iOS)**, _SAP AG_, remote
+**Senior Mobile developer (iOS)**, _SAP AG_, remote
 
 - Development of the German Corona Warn App (CWA)
-- Worked on most parts of the app with focus on CI, automation, tooling
+- Technical lead for the automation/CI pipeline
 - Mobile app security & crypto implementation
 - _Technologies:_ Swift, CommonCrypto, Apple Exposure Notification SDK, Fastlane, Protobuf
 
@@ -64,10 +65,10 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `03/2020-07/2020`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Mobile developer (iOS)**, _NAS Smart Platforms GmbH_, remote
+**Senior Mobile developer (iOS)**, _NAS Smart Platforms GmbH_, remote
 
 - App development to be used for a German public transport company
-- Design and development of shared code libraries to be used within the iOS team
+- Design and development of shared code libraries to be used across two companies
 - Mobile API design & review
 - _Technologies:_ Swift, UIKit, Combine, Fastlane, Python scripts
 
@@ -75,19 +76,21 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `11/2019-02/2020`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Mobile developer (iOS)**, _Deutsche Post IT Services GmbH_, Berlin
+**Senior Mobile developer (iOS)**, _Deutsche Post IT Services GmbH_, Berlin
 
 - Design, Development & Testing of new products to access & maintain the new generation of "Packstation" pick-up locations (iPhone and iPad)
+- Knowledge transfer and active maintenance of automated software testing & deployment
 - _Technologies:_ Swift, UIKit, CoreBluetooth, Python scripts, Fastlane & Xcode Bots for continuous integration
 
 
 `05/2019-11/2019`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Mobile developer (iOS)**, _DKB Code Factory GmbH_, Berlin
+**Lead Mobile developer (iOS)**, _DKB Code Factory GmbH_, Berlin
 
-- Design, Development & Testing of a new banking product (iPhone and iPad)
+- Design, Development & Testing of a white label credit card app to be used by Porsche, Lufthansa and others
 - Defining and implementing common standards in cross-functional teams (Credit Card & Banking app)
+- Knowledge transfer and active maintenance of automated software testing & deployment
 - _Technologies:_ Swift, UIKit, CoreData, Python scripts, Fastlane & Jenkins for continuous integration
 
 
@@ -107,8 +110,9 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Research Spike**, _vitaliberty GmbH_, remote/Mannheim
 
-- Research spikes on advanced mobile topics (iOS; Health, Siri)
+- Research spike on advanced mobile topics (iOS; Health, Siri)
 - Prototype and framework development (iOS)
+- Team mentoring on automation and testing
 - _Technologies:_ Swift, HealthKit, SiriKit, Fastlane for continuous integration
 
 
@@ -130,9 +134,10 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Senior Consultant**, _EY (Ernst & Young GmbH)_, Berlin/Freiburg
 
+- Enabling teams for mobile prototype develop- & deployment; requirements analysis
+- Frequent knowledge transfer with external teams and partners across the organization
 - Architecture requirements assessment & interface design between corporate backend(s) and SAP HANA
-- Enabling teams for mobile prototype develop- & deployment
-- Participation in the Enterprise Architects community
+- Active participation in the Enterprise Architects community; knowledge transfer enterprise/start-up architectures & DevOps
 - TOGAF trained
 - _Technologies:_ AWS (EC2, DynamoDB, RDS, S3, Lambda, Polly, Lex, etc.), Swift, Python
 
@@ -140,11 +145,11 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `09/2016-12/2016`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Software Developer**, remote/Berlin
+**Software Architect**, remote/Berlin
 
 - Mobile development (iOS)
 - Consulting and development of AWS-based systems
-- General IT consulting; requirements analysis
+- General IT consulting; requirements analysis, testing and automation of mobile applications
 - _Technologies:_ Swift, AWS (EC2, DynamoDB, RDS, Lambda, ApiGateway, etc.), Python
 
 
@@ -153,9 +158,10 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Lead developer**, _Two Bulls GmbH_, remote/Berlin/Melbourne/New York
 
-- Technical/Architectural lead for the german chapter for German and Australian customers in the fields of Education, Social Media, IoT and more.
-- Candidate assessment for internal developers and an external client in New York
-- Knowledge transfer and evangelism for iOS-related topics between the German and Australian offices
+- Technical/Architectural lead for the german chapter for German and Australian customers in the fields of Education, Social Media, IoT and more
+- Requirements analysis with customers in New York, Melbourne and Berlin
+- Candidate assessment for internal developers and an external clients in New York, Melbourne and Berlin
+- Knowledge transfer and mentoring for mobile-related topics across all offices
 - _Technologies:_ Swift, continuous integration & automation via Fastlane, Travis and Jenkins. Integration of cloud-based and traditional backend solutions based on Django, Parse, Firebase and AWS (EC2, DynamoDB, RDS, S3, Lambda, ApiGateway, etc.)
 
 
@@ -164,27 +170,28 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Lead iOS developer**, _Secret Escapes GmbH_, remote/Berlin/London
 
-- Native development of the Secret Escapes iOS app; consulting for all mobile- topics (architecture, tracking, testing, app life cycle, etc.)
+- Native development of the Secret Escapes iOS app; management of external iOS contractors
+- Consulting for all mobile- topics (architecture, tracking, testing, app life cycle, etc.)
+- Managed external test teams, overview of test plan creation in tandem with CTO
 - _Technologies:_ UI Kit, Core Data for offline caching and app handling (e.g. bookmarking and auto-synching when back online); Objective-C & Swift
-- Managing and defining automatic translation process (via Phraseapp) and creating tutorials for translators
+- Managing and optimizing translation workflows by defining automatic translation processes
 
 
 `09/2012-01/2014`{:.projectdate} _Permanent_{:.tag .perm}
 {:.projectmeta}
 
-**Mobile developer (iOS)**, _Innogames GmbH_, Hamburg
+**Senior Mobile developer**, _Innogames GmbH_, Hamburg
 
+- First native mobile developer at Innogames. Knowledge transfer with Head of Development. Technical candidate assessments for further mobile team leads. Mobile API design.
+- Initiated and maintained common payment libraries for multiple games
 - Native development of [Tribal Wars 2](https://en.tribalwars2.com/page#/) iOS app (online MMO)
 - _Technologies:_ Cocos2D, OpenGL (shader programming), UI Kit, Core Data, web sockets, iOS payment integration into corporation structures (cross-game library), creation of Python-based asset pipeline to automatically convert assets for mobile usage
-- Development of native components and views for [Grepolis App](https://wiki.en.grepolis.com/wiki/Grepolis_App) and Grepolis Mobile (no longer in store)
-- _Technologies:_ UI Kit, Adobe AIR, Phone Gap
-- Technical candidate assessments (phone and direct interviews)
 
 
 `11/2011-08/2012`{:.projectdate} _Permanent_{:.tag .perm}
 {:.projectmeta}
 
-**Mobile developer (iOS)**, _DocumediaS GmbH_, Hannover
+**Lead Mobile developer**, _DocumediaS GmbH_, Hannover
 
 - Lead mobile developer & architect
 - Project manager (mobile); Requirements analysis with customers
@@ -200,12 +207,22 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Mobile development (iOS)
 - Backend development (Python/Django)
 
+`07/2000-06/2004`{:.projectdate} _Permanent_{:.tag .perm}
+{:.projectmeta}
+
+**Army Service**, _Bundeswehr_, Oldenburg
+
+- Sergeant; Paratrooper
+- Communications specialist
+- Responsible for personnel and mission critical hardware
+
 ### Private Projects
 
 `03/2019-today` [**Exoplanet Explorer**](https://the-exoplanets.space/?pk_campaign=cv&pk_kwd=cv&pk_source=cv)
 
 - Mobile app to display, search and bookmark exoplanets based on the [NASA Exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
 - Design & Development of the mobile app (iOS), web site and backend
+- Requirements analysis & roadmap planning
 - [AppStore Link](https://apps.apple.com/us/app/exoplanet-explorer/id1457614833?ls=1)
 - _Technologies:_ iOS, Swift, SwiftUI, CoreData, iCloud, Amazon Web Services (EC2 etc.), Redis, Postgres, Docker
 
