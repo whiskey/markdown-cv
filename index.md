@@ -171,7 +171,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 **Lead iOS developer**, _Secret Escapes GmbH_, remote/Berlin/London
 
 - Native development of the Secret Escapes iOS app; management of external iOS contractors
-- Consulting for all mobile- topics (architecture, tracking, testing, app life cycle, etc.)
+- Consulting for all mobile- topics (architecture, tracking, testing, app life cycle, etc.); supported definition of tracking goals & A/B tests
 - Managed external test teams, overview of test plan creation in tandem with CTO
 - _Technologies:_ UI Kit, Core Data for offline caching and app handling (e.g. bookmarking and auto-synching when back online); Objective-C & Swift
 - Managing and optimizing translation workflows by defining automatic translation processes
