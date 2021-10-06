@@ -30,11 +30,11 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 ### Personal Skills
 
 - Experience to lead cross-functional teams and oversee the needs of all stakeholders in multi-disciplinary projects
+- Candidate assessment and technical interviews
 - Able to go deep into technology as well as simplified – according to target audience
 - Team player; Mentoring, team development
 - Problem solving with a mix of Best Practices and lean software development
 - Critical thinking
-- Conflict resilient
 
 ## Occupation
 
