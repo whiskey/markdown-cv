@@ -21,10 +21,10 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 ### Technology & Concepts
 
 - Mobile software development; iOS, Swift, Objective-C
-- Mobile app security; iOS security Best Practices, security audit, OWASP MASVS
+- Mobile app security; iOS security Best Practices, security audit, OWASP MASVS & MSTG
 - AWS architecture and IT transformation; DevOps, micro services
 - (Process-)Automation; Continuous delivery & -deployment; Fastlane, Jenkins, CircleCI
-- Agile development; Scrum, Kanban, Lean development as well as hybrid-forms
+- Agile development; Scrum, Kanban, Lean Development as well as hybrid-forms
 - Understanding of different stages in software life cycles
 
 ### Personal Skills
@@ -46,7 +46,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 **Lead Mobile developer (iOS)**, _IBM Germany AG_, remote
 
 - Knowledge transfer on automation and testing
-- Thread modeling
+- Threat modeling possible attack vectors
 - Development of the CovPass app (UI and Accessibility)
 - _Technologies:_ Swift, CommonCrypto, PDFKit, Accessibility
 
@@ -160,7 +160,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 - Technical/Architectural lead for the german chapter for German and Australian customers in the fields of Education, Social Media, IoT and more
 - Requirements analysis with customers in New York, Melbourne and Berlin
-- Candidate assessment for internal developers and an external clients in New York, Melbourne and Berlin
+- Candidate assessment for internal developers and an external clients in New York and Berlin
 - Knowledge transfer and mentoring for mobile-related topics across all offices
 - _Technologies:_ Swift, continuous integration & automation via Fastlane, Travis and Jenkins. Integration of cloud-based and traditional backend solutions based on Django, Parse, Firebase and AWS (EC2, DynamoDB, RDS, S3, Lambda, ApiGateway, etc.)
 
@@ -220,7 +220,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 `03/2019-today` [**Exoplanet Explorer**](https://the-exoplanets.space/?pk_campaign=cv&pk_kwd=cv&pk_source=cv)
 
-- Mobile app to display, search and bookmark exoplanets based on the [NASA Exoplanet archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
+- Mobile app to display, search and bookmark exoplanets based on the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
 - Design & Development of the mobile app (iOS), web site and backend
 - Requirements analysis & roadmap planning
 - [AppStore Link](https://apps.apple.com/us/app/exoplanet-explorer/id1457614833?ls=1)
@@ -249,5 +249,5 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 - Software development and research: automatic Wikipedia-article categorization, image analysis, EXIF extraction and other machine learning tasks
 - _Technologies:_ Java, Python/Django, PostgreSQL, misc. graph- & no-SQL databases, cluster computing
-- Tutor for Java, System Administration (Unix), Computer Science and during "Summer Schools" (audience: pupils aged 10-16; topics: Robotics and Java)
+- Tutor for Java for System Administration (Unix), Computer Science and during "Summer Schools" (audience: pupils aged 10-16; topics: Robotics and Java)
 {: .noprint}
