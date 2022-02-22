@@ -40,6 +40,23 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Professional
 
+`12/2021-now`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
+
+**Senior Mobile developer (iOS)**, _Klarna Bank AB_, remote
+
+- Implementation of native components within the ReactNative Klarna application
+- Knowledge transfer on app architecture and testing
+- _Technologies:_ Swift, Objective-C, ReactNative
+
+`10/2021-10/2021`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
+
+**Senior Mobile developer (iOS)**, _Hybrid Heroes GmbH_, remote
+
+- Implementation of native Dashboard Widgets for the RBB24 app
+- _Technologies:_ Swift, SwiftUI
+
 `07/2021-09/2021`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
