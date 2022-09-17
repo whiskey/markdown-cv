@@ -40,7 +40,15 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Professional
 
-`12/2021-now`{:.projectdate} _Freelance_{:.tag .free}
+`08/2022-now`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
+
+**Senior Mobile developer (iOS)**, _Deutsche Post IT Services GmbH_, remote
+
+- Architecture, Development & Testing the new generation of "Packstation" pick-up locations (iPhone and iPad)
+- _Technologies:_ Swift, UIKit, CoreBluetooth, Python scripts, Fastlane & Github workflows for continuous integration
+
+`12/2021-07/2022`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
 **Senior Mobile developer (iOS)**, _Klarna Bank AB_, remote
