@@ -40,7 +40,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Professional
 
-`08/2022-now`{:.projectdate} _Freelance_{:.tag .free}
+`08/2022-12/2022`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
 **Senior Mobile developer (iOS)**, _Deutsche Post IT Services GmbH_, remote
