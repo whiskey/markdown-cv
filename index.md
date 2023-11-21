@@ -46,7 +46,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 **Senior Mobile developer (iOS)**, _RTL Technologies GmbH_, remote
 
 - Implementation of an independent tracking/analytics SDK for all Swift-powered RTLplus products
-- Mobile Architecture, continuous integration via Gitlab runners and Docker/Kubernetes for Lunux-based Swift builds
+- Mobile Architecture, continuous integration via Gitlab runners and Docker/Kubernetes for Linux-based Swift builds
 - Swift code generation from OpenAPI schema
 - _Technologies:_ Swift, UIKit, Gitlab runners, OpenAPI, Fastlane, shell scripts
 
