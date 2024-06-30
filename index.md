@@ -40,15 +40,15 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ### Professional
 
-`01/2023-ongoing`{:.projectdate} _Freelance_{:.tag .free}
+`01/2023-06/2024`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
 **Senior Mobile developer (iOS)**, _RTL Technologies GmbH_, remote
 
-- Implementation of an independent tracking/analytics SDK for all Swift-powered RTLplus products
-- Mobile Architecture, continuous integration via Gitlab runners and Docker/Kubernetes for Linux-based Swift builds
+- Design & Implementation of an independent tracking/analytics SDK for all Swift-powered RTLplus products
+- Mobile Architecture, Security, continuous integration via Gitlab runners and Docker/Kubernetes for Linux-based Swift builds
 - Swift code generation from OpenAPI schema
-- _Technologies:_ Swift, UIKit, Gitlab runners, OpenAPI, Fastlane, shell scripts
+- _Technologies:_ Swift, UIKit, Gitlab, OpenAPI, Kubernetes, Docker, Bash
 
 `08/2022-12/2022`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
@@ -64,7 +64,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 **Senior Mobile developer (iOS)**, _Klarna Bank AB_, remote
 
 - Implementation of native components within the ReactNative Klarna application
-- Knowledge transfer on app architecture and testing
+- Knowledge transfer on app architecture, secure software development and testing
 - _Technologies:_ Swift, Objective-C, ReactNative
 
 `10/2021-10/2021`{:.projectdate} _Freelance_{:.tag .free}
@@ -124,7 +124,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 **Lead Mobile developer (iOS)**, _DKB Code Factory GmbH_, Berlin
 
 - Design, Development & Testing of a white label credit card app to be used by Porsche, Lufthansa and others
-- Defining and implementing common standards in cross-functional teams (Credit Card & Banking app)
+- Defining and implementing common software & security standards in cross-functional teams (Credit Card & Banking app)
 - Knowledge transfer and active maintenance of automated software testing & deployment
 - _Technologies:_ Swift, UIKit, CoreData, Python scripts, Fastlane & Jenkins for continuous integration
 
