@@ -11,7 +11,7 @@ The compiled version: [https://whiskey.github.io/markdown-cv](https://whiskey.gi
 
 * install jekyll on your computer: `gem install jekyll`
 * Clone your fork on your computer
-* Type jekyll serve and you’ll be able to see your CV on your local host (the default address is http://localhost:4000).
+* Type `jekyll serve` and you’ll be able to see your CV on your local host (the default address is http://localhost:4000).
 * You can edit the index.md file and see changes live in your browser.
 
 ### Author
