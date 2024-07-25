@@ -36,9 +36,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Problem solving with a mix of Best Practices and lean software development
 - Critical thinking
 
-## Occupation
-
-### Professional
+## Professional Experience
 
 `01/2023-06/2024`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
@@ -251,7 +249,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Communications specialist
 - Responsible for personnel and mission critical hardware
 
-### Private Projects
+## Private Projects
 
 `03/2019-today` [**Exoplanet Explorer**](https://the-exoplanets.space/?pk_campaign=cv&pk_kwd=cv&pk_source=cv)
 

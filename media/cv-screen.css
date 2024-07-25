@@ -80,21 +80,17 @@ a:hover {
 
 #header {
 	position: fixed;
+	display: flex;
 	top: 0;
 	left: 0;
 	width: 100%;
 	height: 40px;
-	background-color: #333;
+	background-color: #4e4e4e;
 	z-index: 100
 }
 
-#download {
-	float: left;
-	color: white;
-	padding: 14px 16px
-}
-
 #webaddress {
+	position: relative;
 	margin-top: 1em;
 	left: 33%;
 	color: #aaa;
@@ -114,6 +110,16 @@ a:hover {
 	padding: 0 8px;
 	margin-left: 8px;
 	border-radius: 10% 0
+}
+
+.spacer {
+	flex-grow: 1;
+}
+
+.header-btn {
+	float: left;
+	color: white;
+	padding: 14px 16px
 }
 
 .free {

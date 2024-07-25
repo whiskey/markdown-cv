@@ -24,6 +24,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - AWS architecture and IT transformation; DevOps, micro services
 - (Process-)Automation; Continuous delivery & -deployment; Fastlane, Jenkins, CircleCI
 - Agile development; Scrum, Kanban, Lean development as well as hybrid-forms
+- Understanding of different stages in software life cycles
 
 ### Personal Skills
 
