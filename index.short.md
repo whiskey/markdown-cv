@@ -26,6 +26,11 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Agile development; Scrum, Kanban, Lean development as well as hybrid-forms
 - Understanding of different stages in software life cycles
 
+### Certifications
+
+- AWS Certified Solutions Architect - Associate (2016 & 2024)
+- ISC2 Certified in Cybersecurity (2024)
+
 ### Personal Skills
 
 - Experience to lead cross-functional teams and oversee the needs of all stakeholders in multi-disciplinary projects
@@ -70,19 +75,6 @@ Stolpmünder Weg 51, 13503 Berlin <br>
   - Designed and implemented mobile architectures for various industries including fintech, public services, and e-commerce
   - Expertise in Swift, Objective-C, UIKit, CoreData, and various AWS services
   - Implemented continuous integration and deployment using tools like Fastlane, Jenkins, and CircleCI
-
-## Education
-
-`07/2009-03/2012` **University of Hildesheim**
-
-- **Information management and -technology**
-- Unfinished Master of Science; focus on applied machine learning and artificial intelligence; grade point average 1.9
-
-`10/2004-06/2009` **University of Hildesheim**
-
-- **Information management and -technology**
-- Bachelor of Science
-- Focus on applied data mining, machine learning and computer aided learning
 
 ## Private Projects
 

@@ -27,6 +27,11 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Agile development; Scrum, Kanban, Lean development as well as hybrid-forms
 - Understanding of different stages in software life cycles
 
+### Certifications
+
+- AWS Certified Solutions Architect - Associate (2016 & 2024)
+- ISC2 Certified in Cybersecurity (2024)
+
 ### Personal Skills
 
 - Experience to lead cross-functional teams and oversee the needs of all stakeholders in multi-disciplinary projects
