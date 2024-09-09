@@ -159,9 +159,14 @@ strong {
     font-weight: 700
 }
 
-#ghbutton {
+#ghbutton, #hint {
     display: none;
-    visibility: hidden
+    visibility: hidden;
+}
+
+.hint {
+	display: none;
+    visibility: hidden;
 }
 
 .projectmeta {

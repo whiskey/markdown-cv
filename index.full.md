@@ -3,18 +3,21 @@ layout: cv
 title: Carsten Knoblich
 ---
 
+<div class="hint">
+<a href="https://staticline.de/?pk_campaign=cv&amp;pk_kwd=cv&amp;pk_source=cv">See the latest version of this document</a>
+</div>
+
 # Carsten Knoblich
 
 Lead Mobile Developer & Software Architect with 10+ years experience
 {:.subtitle}
 
 <div id="webaddress">
-
 Stolpmünder Weg 51, 13503 Berlin <br>
-
 <a href="mailto:carsten@staticline.de">carsten@staticline.de</a>
 | <a href="https://staticline.de/?pk_campaign=cv&amp;pk_kwd=cv&amp;pk_source=cv">staticline.de</a>
-| <a href="tel:+4917666019114">+49 176 66019114</a></div>
+| <a href="tel:+4917666019114">+49 176 66019114</a>
+</div>
 
 ## Core Skills
 
@@ -264,6 +267,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - [AppStore Link](https://apps.apple.com/us/app/exoplanet-explorer/id1457614833?ls=1)
 - _Technologies:_ iOS, Swift, SwiftUI, CoreData, iCloud, Amazon Web Services (EC2 etc.), Redis, Postgres, Docker
 
+{% comment %}
 ## Education
 
 ### University
@@ -289,3 +293,4 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - _Technologies:_ Java, Python/Django, PostgreSQL, misc. graph- & no-SQL databases, cluster computing
 - Tutor for Java, System Administration (Unix), Computer Science and during "Summer Schools" (audience: pupils aged 10-16; topics: Robotics and Java)
 {: .noprint}
+{% endcomment %}

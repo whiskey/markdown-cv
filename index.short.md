@@ -3,6 +3,10 @@ layout: cv
 title: Carsten Knoblich
 ---
 
+<div class="hint">
+<a href="https://staticline.de/?pk_campaign=cv&amp;pk_kwd=cv&amp;pk_source=cv">See the latest version of this document</a>
+</div>
+
 # Carsten Knoblich
 
 Lead Mobile Developer & Software Architect with 10+ years experience
