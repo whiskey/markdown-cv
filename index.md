@@ -1,0 +1,1 @@
+_sites/index.full.md
