@@ -44,6 +44,15 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 ## Professional Experience
 
+`05/2024–ongoing`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
+
+**Software Architect**, remote
+
+- Transfer of on-premise systems to AWS cloud
+- Security review of existing systems and processes
+- Mobile product management and App Store Optimization (ASO)
+
 `01/2023-06/2024`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
