@@ -55,6 +55,15 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Security review of existing systems and processes
 - Mobile product management and App Store Optimization (ASO)
 
+`10/2023-10/2024`{:.projectdate} _Freelance_{:.tag .free}
+{:.projectmeta}
+
+**Software Architect**, _EURO Kartensysteme, remote
+
+- Evaluation/Expert opinion of a mobile payment concept to enable girocard payments via Apple Pay
+- technical consulting on requird actions on Apple platforms
+- Apple Pay, system architecture
+
 `01/2023-06/2024`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
