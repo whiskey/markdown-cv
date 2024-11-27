@@ -1,3 +1,12 @@
+---
+layout: cv
+title: Carsten Knoblich
+---
+
+<!-- <div class="hint">
+<a href="https://staticline.de/?pk_campaign=cv&amp;pk_kwd=cv&amp;pk_source=cv">Aktuelle Version des Dokuments</a>
+</div> -->
+
 # Carsten Knoblich
 
 Lead Mobile Developer & Software Architekt mit über 15 Jahren Erfahrung
@@ -248,21 +257,22 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 **Wehrdienst**, _Bundeswehr_, Oldenburg
 
-- Unteroffizier; Fallschirmjäger
+- Stabsunteroffizier; Fallschirmjäger
 - Kommunikationsspezialist
 - Verantwortlich für Personal und missionskritische Hardware
+- Offiziersprüfzentrale erfolgreicher Abschluss
 
 ## Private Projekte
 
-`03/2019-heute` [**Exoplanet Explorer**](https://the-exoplanets.space/?pk_campaign=cv&pk_kwd=cv&pk_source=cv)
+`03/2019-heute` **Exoplanet Explorer**
 
-- Mobile App zur Anzeige, Suche und zum Bookmarking von Exoplaneten basierend auf dem [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
+- [Mobile App](https://the-exoplanets.space/?pk_campaign=cv&pk_kwd=cv&pk_source=cv) zur Anzeige, Suche und zum Bookmarking von Exoplaneten basierend auf dem [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
 - Design & Entwicklung der mobilen App (iOS), Website und Backend
 - Anforderungsanalyse & Roadmap-Planung
 - [AppStore Link](https://apps.apple.com/us/app/exoplanet-explorer/id1457614833?ls=1)
 - _Technologien:_ iOS, Swift, SwiftUI, CoreData, iCloud, Amazon Web Services (EC2 etc.), Redis, Postgres, Docker
 
-## Ausbildung
+<!-- ## Ausbildung
 
 ### Universität
 
@@ -286,4 +296,4 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Softwareentwicklung und Forschung: automatische Wikipedia-Artikel-Kategorisierung, Bildanalyse, EXIF-Extraktion und andere Machine Learning-Aufgaben
 - _Technologien:_ Java, Python/Django, PostgreSQL, verschiedene Graph- & NoSQL-Datenbanken, Cluster Computing
 - Tutor für Java, Systemadministration (Unix), Informatik und während "Summer Schools" (Zielgruppe: Schüler 10-16 Jahre; Themen: Robotik und Java)
-{: .noprint}
+{: .noprint} -->

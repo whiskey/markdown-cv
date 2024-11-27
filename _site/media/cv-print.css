@@ -1,197 +1,80 @@
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
-    font: inherit;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    vertical-align: baseline
+@import 'cv-base.css';
+
+/* body {
+    font-size: 10pt;
+    margin: 2em 1em 1em;
 }
 
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-    display: block
-}
+.noprint, #header, .hint { display: none; }
 
-body {
-    line-height: 1
-}
+h2 { margin-top: 2em; } */
+/* Base Layout */
+@media print {
+    body {
+        font: normal normal 400 10pt/1.35em Verdana, sans-serif;
+        margin: 2em 3em;
+    }
 
-ol, ul {
-    list-style: none
-}
+    /* Remove left positioning and increase width */
+    p,
+    ul,
+    h1,
+    h2,
+    h3,
+    h4 {
+        position: relative;
+        left: 0;
+        width: 100%;
+        margin-bottom: 0.7em;
+    }
 
-blockquote, q {
-    quotes: none
-}
+    /* Adjust heading layout */
+    h1 {
+        font-size: 2em;
+        margin-bottom: 0.5em;
+    }
 
-blockquote:before, blockquote:after, q:before, q:after {
-    content: none
-}
+    h2 {
+        font-size: 1.1em;
+        color: #a00;
+        margin-top: 1.5em;
+        margin-bottom: 0.5em;
+        border-bottom: 1px solid #a00;
+        text-align: left;
+        width: 100%;
+    }
 
-table {
-    border-collapse: collapse;
-    border-spacing: 0
-}
+    h3 {
+        font-size: 1em;
+        color: #666;
+        margin-top: 1em;
+        margin-bottom: 0.3em;
+        text-align: left;
+        width: 100%;
+    }
 
-body {
-    font: normal normal 400 10pt/1.35em Verdana, sans-serif;
-    margin: 2em 1em 1em
-}
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
 
-p {
-    position: relative;
-    left: 32%;
-    margin-bottom: .2em;
-    margin-right: 0;
-    width: 70%
-}
+    /* Project metadata */
+    .projectmeta {
+        margin-top: 1em;
+        margin-bottom: 0.3em;
+    }
 
-code {
-    font: normal normal 80% Menlo, monospace, sans-serif;
-    color: #aaa
-}
+    /* Contact info */
+    #webaddress {
+        position: relative;
+        left: 0;
+        margin-bottom: 2em;
+    }
 
-ul {
-    position: relative;
-    left: 32%;
-    width: 65%;
-    margin-bottom: 1em
-}
-
-li:before {
-    content: "-";
-    position: relative;
-    left: -.25em
-}
-
-li {
-    padding-left: 1.25em;
-    text-indent: -1.25em
-}
-
-li ul {
-    position: relative;
-    left: 0;
-    width: 100%;
-    margin-bottom: 2em
-}
-
-h1, h2, h3, h4 {
-    font-weight: 400;
-    font-family: Cousine, Verdana, sans-serif;
-    width: 65%;
-    page-break-before: auto
-}
-
-h1 {
-    text-align: left;
-    font-size: 3em;
-    line-height: 1em;
-    position: relative;
-    left: 28%
-}
-
-h1 + p {
-    font-style: italic;
-    font-size: 110%
-}
-
-h2 {
-    font-size: 1.1em;
-    color: #a00;
-    margin-top: 2em;
-    position: relative;
-    top: 1.2em;
-    text-align: right;
-    width: 18%
-}
-
-h2 + p {
-    margin-top: 2.5em
-}
-
-h3 {
-    font-size: 1em;
-    line-height: 2em;
-    color: #ccc;
-    position: relative;
-    top: 1.6em;
-    text-align: right;
-    width: 18%
-}
-
-a {
-    color: inherit;
-    text-decoration: none
-}
-
-a:hover {
-    color: #39f
-}
-
-#header {
-    visibility: hidden
-}
-
-.subtitle {
-    padding-top: .8em;
-    left: 28%
-}
-
-#webaddress {
-    margin-top: 1em;
-    position: relative;
-    left: 28%;
-    color: #ccc;
-    font-family: Menlo, monospace, sans-serif;
-    font-size: 80%
-}
-
-#webaddress a {
-    text-decoration: none
-}
-
-em {
-    font-style: italic;
-    font-weight: 700
-}
-
-strong {
-    font-weight: 700
-}
-
-#ghbutton, #hint {
-    display: none;
-    visibility: hidden;
-}
-
-.hint {
-	display: none;
-    visibility: hidden;
-}
-
-.projectmeta {
-    display: flex;
-    justify-content: flex-start;
-    align-items: baseline
-}
-
-.tag {
-    color: #fff;
-    font-style: italic;
-    font-size: 80%;
-    padding: 0 8px;
-    margin-left: 8px;
-    border-radius: 10% 0
-}
-
-.free {
-    background-color: indianred
-}
-
-.perm {
-    background-color: cadetblue
-}
-
-.noprint {
-    display: none
+    /* Hide non-print elements */
+    .noprint,
+    #header,
+    .hint {
+        display: none;
+    }
 }

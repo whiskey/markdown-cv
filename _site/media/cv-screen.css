@@ -1,149 +1,39 @@
-* {
-	font: inherit;
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	vertical-align: baseline;
-	box-sizing: border-box
-}
-
-body {
-	line-height: 1;
-	font: normal 400 80% Verdana, sans-serif
-}
-
-ol, ul {
-	list-style: none
-}
-
-table {
-	border-collapse: collapse;
-	border-spacing: 0
-}
-
-p, ul, h1, h2, h3, h4 {
-	position: relative;
-	left: 33%;
-	width: 65%;
-	margin-bottom: .7em
-}
-
-h1, h2, h3, h4 {
-	font-family: Cousine, Verdana, sans-serif
-}
-
-h1 {
-	font-size: 3em;
-	line-height: 1em
-}
-
-h2 {
-	font-size: 1.1em;
-	color: #a00;
-	margin-top: 3em;
-	text-align: right;
-	width: 20%
-}
-
-h3 {
-	font-size: 1em;
-	line-height: 2em;
-	text-align: right;
-	width: 20%
-}
-
-code {
-	font: normal 80% Menlo, monospace, sans-serif;
-	color: #aaa
-}
-
-li:before {
-	content: "-";
-	position: relative;
-	left: -.25em
-}
-
-li {
-	padding-left: 1.25em;
-	text-indent: -1.25em
-}
-
-a {
-	color: inherit;
-	text-decoration: none
-}
+@import 'cv-base.css';
 
 a:hover {
-	color: #39f
+    color: #39f;
 }
 
 #header {
-	position: fixed;
-	display: flex;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 40px;
-	background-color: #4e4e4e;
-	z-index: 100
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #4e4e4e;
+    z-index: 100;
 }
 
 #content {
-	display: block;
     position: relative;
     top: 40px;
-	margin-bottom: 2em;
-}
-
-#webaddress {
-	position: relative;
-	margin-top: 1em;
-	left: 33%;
-	color: #aaa;
-	font-family: Menlo, monospace, sans-serif;
-	font-size: 80%
+    margin-bottom: 2em;
 }
 
 .hint {
-	color: antiquewhite;
-	background-color: indianred;
-	text-align: center;
-	margin-bottom: 2em;
-}
-
-.projectmeta {
-	display: flex;
-	align-items: baseline
-}
-
-.tag {
-	color: white;
-	font-style: italic;
-	font-size: 80%;
-	padding: 0 8px;
-	margin-left: 8px;
-	border-radius: 10% 0
-}
-
-.spacer {
-	flex-grow: 1;
+    color: antiquewhite;
+    background-color: indianred;
+    text-align: center;
+    margin-bottom: 2em;
 }
 
 .header-btn {
-	float: left;
-	color: white;
-	padding: 14px 16px
+    float: left;
+    color: white;
+    padding: 14px 16px;
 }
 
-.free {
-	background-color: indianred
-}
-
-.perm {
-	background-color: cadetblue
-}
-
-#address, .noprint {
-	display: none
+#address,
+.noprint {
+    display: none;
 }

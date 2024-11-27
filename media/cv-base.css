@@ -1,0 +1,107 @@
+/* Reset & Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+}
+
+/* Typography */
+body {
+    font: normal 400 80% Verdana, sans-serif;
+    line-height: 1;
+}
+
+/* Layout */
+p, ul, h1, h2, h3, h4 {
+    position: relative;
+    left: 33%;
+    width: 65%;
+    margin-bottom: 0.7em;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+    font-family: Cousine, Verdana, sans-serif;
+}
+
+h1 { font-size: 3em; }
+h2 { 
+    font-size: 1.1em;
+    color: #a00;
+    text-align: right;
+    width: 20%;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+h3 {
+    font-size: 1em;
+    color: rgb(125, 43, 43);
+    text-align: right;
+    width: 20%;
+    margin-top: 1em;
+    margin-bottom: 0.3em;
+}
+
+/* Lists */
+ul {
+    list-style: none;
+    margin-top: 0.3em;
+    margin-bottom: 0.8em;
+}
+
+li {
+    position: relative;
+    line-height: 1.4;    /* Added for better readability */
+    padding-left: 1em;
+    padding-top: 0.2em;
+}
+
+li:before {
+    content: "–";
+    position: absolute;
+    left: 0;
+    color: #666;
+}
+
+/* Special case for technology lists */
+li em {
+    display: block;
+    margin-top: 0.3em;
+}
+
+/* Common Classes */
+
+strong {
+    font-weight: bold;
+}
+.tag {
+    color: white;
+    font-style: italic;
+    font-size: 80%;
+    padding: 0 8px;
+    margin-left: 8px;
+    border-radius: 10% 0;
+}
+
+.free { background-color: indianred; }
+.perm { background-color: cadetblue; }
+.projectmeta {
+    color: rgb(85, 85, 85);
+    font-style: italic;
+    padding-top: 1.0em;
+}
+
+#webaddress {
+    position: relative;
+    left: 33%;
+    color: #aaa;
+    font-family: Menlo, monospace;
+    font-size: 80%;
+}
+a > * {
+    color: #aaa;
+    text-decoration: none
+}
