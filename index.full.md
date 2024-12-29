@@ -58,7 +58,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 `10/2024-10/2024`{:.projectdate} _Freelance_{:.tag .free}
 {:.projectmeta}
 
-**Software Architect**, _EURO Kartensysteme, remote
+**Software Architect**, _EURO Kartensysteme_, remote
 
 - Evaluation/Expert opinion of a mobile payment concept to enable girocard payments via Apple Pay
 - technical consulting on requird actions on Apple platforms

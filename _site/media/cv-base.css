@@ -101,7 +101,18 @@ strong {
     font-family: Menlo, monospace;
     font-size: 80%;
 }
-a > * {
-    color: #aaa;
-    text-decoration: none
-}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 500;  /* Slightly bolder than normal (400) */
+ }
+ 
+ /* Can optionally add hover state for screen version */
+ @media screen {
+    a:hover {
+        color: #39f;
+    }
+ }
+ 
+ 
