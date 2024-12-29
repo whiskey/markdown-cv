@@ -55,7 +55,7 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 - Sicherheitsüberprüfung bestehender Systeme und Prozesse
 - Mobile Produktmanagement und App Store Optimierung (ASO)
 
-`10/2023-10/2024`{:.projectdate} _Freiberuflich_{:.tag .free}
+`10/2024-10/2024`{:.projectdate} _Freiberuflich_{:.tag .free}
 {:.projectmeta}
 
 **Software Architekt**, _EURO Kartensysteme_, remote
