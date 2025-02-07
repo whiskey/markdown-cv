@@ -34,6 +34,8 @@ Stolpmünder Weg 51, 13503 Berlin <br>
 
 - AWS Certified Solutions Architect - Associate (2016 & 2024)
 - ISC2 Certified in Cybersecurity (2024)
+- IT Security Representative with TÜV Rheinland Certified Qualification (2025)
+- CompTIA Security+ (2025)
 
 ### Personal Skills
 
